@@ -44,7 +44,7 @@ Copied from [Axiologic/ScriptaHub](https://github.com/Axiologic/ScriptaHub) comm
 Add this URL to `repositories` in ScriptaHubAgent `sources.json`:
 
 ```json
-"https://github.com/Axiologic/scriptaBooks-legacy.git"
+"https://raw.githubusercontent.com/Axiologic/scriptaBooks-legacy/master/collection.json"
 ```
 
-The agent discovers the root catalog over HTTP on `main` or `master` and streams the original files on demand. It does not clone this repository. Original public paths remain valid under the agent base URL.
+The agent reads the configured JSON URL over HTTP and streams the original files on demand. It does not clone this repository. Original public paths remain valid under the agent base URL.
