@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "bookId": "bk-f1850771316146cf96e07789ed6ecd54",
+  "currentEdition": "edition-1",
+  "editions": [
+    {
+      "id": "edition-1",
+      "number": 1,
+      "label": {
+        "en": "Edition 1",
+        "fr": "Édition 1",
+        "de": "Ausgabe 1",
+        "es": "Edición 1",
+        "pt": "Edição 1",
+        "it": "Edizione 1",
+        "ro": "Ediția 1",
+        "pl": "Wydanie 1"
+      },
+      "publishedAt": "2026-10-28",
+      "changes": {
+        "en": "First English edition with the source PDF, complete reader, and ten-minute summary. No translation was requested."
+      },
+      "source": {
+        "filename": "book.pdf",
+        "version": 1,
+        "sha256": "1aa536bea8b920bed91f55f26efaa44aa550197aa920db1e386dcdcefdb4fe57"
+      },
+      "pdf": {
+        "en": "en/book.pdf"
+      }
+    }
+  ]
+}

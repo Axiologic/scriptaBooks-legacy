@@ -34,7 +34,7 @@
       "name": "Polski"
     }
   ],
-  "bookCount": 10,
+  "bookCount": 11,
   "books": [
     {
       "id": "bk-dd18acafe4c142df",
@@ -11166,6 +11166,249 @@
           ]
         }
       ]
+    },
+    {
+      "id": "bk-f1850771316146cf96e07789ed6ecd54",
+      "sourceId": "Why_the_Holocaust_Stands_Apart",
+      "directory": "books/why/the/holocaust/stands/apart/bk-f1850771316146cf96e07789ed6ecd54",
+      "route": [
+        "why",
+        "the",
+        "holocaust",
+        "stands",
+        "apart"
+      ],
+      "category": "Society",
+      "group": "philosophy",
+      "title": {
+        "en": "Why the Holocaust Stands Apart"
+      },
+      "subtitle": {
+        "en": "A comparative inquiry into why one genocide occupies a unique place in global consciousness, and what that attention does to other atrocities."
+      },
+      "shortDescription": {
+        "en": "Short description — Why the Holocaust Stands Apart Why the Holocaust Stands Apart is a comparative inquiry into why one genocide occupies a unique place in global consciousness and what that attention does to other atrocities. It takes up uneven public memory, in which some atrocities are taught, filmed, and funded while others remain underrepresented or denied, and it asks what follows for other victims when one memory becomes the default. Its questions include why the murder of six million Jews holds that place, whether such focus can prevent future genocides or overshadow other victims, whether law after 1945 stopped the next genocide, and whether never again can cover every victim. The comparison begins with the term Raphael Lemkin coined in 1944 and sets the Holocaust beside the Armenian Genocide, Cambodia, Rwanda, Bosnia, and the Holodomor, while also examining state policy, the Nuremberg Laws of 1935, perpetrator documents, survivor writing, film, museums, and schooling. It leaves open whether never again can mean anyone, and what it costs to remember one crime so completely."
+      },
+      "keywords": {
+        "en": [
+          "Holocaust",
+          "genocide",
+          "collective memory",
+          "industrialized killing",
+          "dehumanization",
+          "hierarchy of suffering",
+          "never again",
+          "Genocide Convention",
+          "genocide denial",
+          "antisemitism",
+          "genocide prevention",
+          "survivor testimony",
+          "Holocaust education",
+          "geopolitical interests",
+          "Armenian Genocide",
+          "Rwandan Genocide",
+          "colonialism",
+          "human rights",
+          "Holodomor",
+          "Khmer Rouge"
+        ],
+        "fr": [
+          "Holocaust",
+          "genocide",
+          "collective memory",
+          "industrialized killing",
+          "dehumanization",
+          "hierarchy of suffering",
+          "never again",
+          "Genocide Convention",
+          "genocide denial",
+          "antisemitism",
+          "genocide prevention",
+          "survivor testimony",
+          "Holocaust education",
+          "geopolitical interests",
+          "Armenian Genocide",
+          "Rwandan Genocide",
+          "colonialism",
+          "human rights",
+          "Holodomor",
+          "Khmer Rouge"
+        ],
+        "de": [
+          "Holocaust",
+          "genocide",
+          "collective memory",
+          "industrialized killing",
+          "dehumanization",
+          "hierarchy of suffering",
+          "never again",
+          "Genocide Convention",
+          "genocide denial",
+          "antisemitism",
+          "genocide prevention",
+          "survivor testimony",
+          "Holocaust education",
+          "geopolitical interests",
+          "Armenian Genocide",
+          "Rwandan Genocide",
+          "colonialism",
+          "human rights",
+          "Holodomor",
+          "Khmer Rouge"
+        ],
+        "es": [
+          "Holocaust",
+          "genocide",
+          "collective memory",
+          "industrialized killing",
+          "dehumanization",
+          "hierarchy of suffering",
+          "never again",
+          "Genocide Convention",
+          "genocide denial",
+          "antisemitism",
+          "genocide prevention",
+          "survivor testimony",
+          "Holocaust education",
+          "geopolitical interests",
+          "Armenian Genocide",
+          "Rwandan Genocide",
+          "colonialism",
+          "human rights",
+          "Holodomor",
+          "Khmer Rouge"
+        ],
+        "pt": [
+          "Holocaust",
+          "genocide",
+          "collective memory",
+          "industrialized killing",
+          "dehumanization",
+          "hierarchy of suffering",
+          "never again",
+          "Genocide Convention",
+          "genocide denial",
+          "antisemitism",
+          "genocide prevention",
+          "survivor testimony",
+          "Holocaust education",
+          "geopolitical interests",
+          "Armenian Genocide",
+          "Rwandan Genocide",
+          "colonialism",
+          "human rights",
+          "Holodomor",
+          "Khmer Rouge"
+        ],
+        "it": [
+          "Holocaust",
+          "genocide",
+          "collective memory",
+          "industrialized killing",
+          "dehumanization",
+          "hierarchy of suffering",
+          "never again",
+          "Genocide Convention",
+          "genocide denial",
+          "antisemitism",
+          "genocide prevention",
+          "survivor testimony",
+          "Holocaust education",
+          "geopolitical interests",
+          "Armenian Genocide",
+          "Rwandan Genocide",
+          "colonialism",
+          "human rights",
+          "Holodomor",
+          "Khmer Rouge"
+        ],
+        "ro": [
+          "Holocaust",
+          "genocide",
+          "collective memory",
+          "industrialized killing",
+          "dehumanization",
+          "hierarchy of suffering",
+          "never again",
+          "Genocide Convention",
+          "genocide denial",
+          "antisemitism",
+          "genocide prevention",
+          "survivor testimony",
+          "Holocaust education",
+          "geopolitical interests",
+          "Armenian Genocide",
+          "Rwandan Genocide",
+          "colonialism",
+          "human rights",
+          "Holodomor",
+          "Khmer Rouge"
+        ],
+        "pl": [
+          "Holocaust",
+          "genocide",
+          "collective memory",
+          "industrialized killing",
+          "dehumanization",
+          "hierarchy of suffering",
+          "never again",
+          "Genocide Convention",
+          "genocide denial",
+          "antisemitism",
+          "genocide prevention",
+          "survivor testimony",
+          "Holocaust education",
+          "geopolitical interests",
+          "Armenian Genocide",
+          "Rwandan Genocide",
+          "colonialism",
+          "human rights",
+          "Holodomor",
+          "Khmer Rouge"
+        ]
+      },
+      "keywordIds": [
+        "term:131fe21ac415c034f348",
+        "term:bf104e670429eafb623a",
+        "term:1e043246b23aac121089",
+        "term:cc0881e98261638826f4",
+        "term:61a5375c52f84275948d",
+        "term:41bb87ce7bfc1e6535e6",
+        "term:1c148debb160730a507b",
+        "term:de4142a1f6023980cf10",
+        "term:a01f919bc4252f34ad0e",
+        "term:0788f5b85cdba9308bfb",
+        "term:c7015beeef30a7f71c89",
+        "term:0fee4b30657a292818b7",
+        "term:740afa1ba57ad1ecc3c7",
+        "term:678f4468c27ec509b77d",
+        "term:2f69fbe6acbd1a2b8679",
+        "term:0cab81ddd6cfaa340ac3",
+        "term:f48e28c50712666d3736",
+        "term:1e32fc9e31bf58736a46",
+        "term:a78cf86ad81c50f647c4",
+        "term:d167b3eecbafcca40df4"
+      ],
+      "editions": {
+        "en": {
+          "book": "books/why/the/holocaust/stands/apart/bk-f1850771316146cf96e07789ed6ecd54/en/book.html",
+          "fullContent": "books/why/the/holocaust/stands/apart/bk-f1850771316146cf96e07789ed6ecd54/en/full_content.html",
+          "shortContent": "books/why/the/holocaust/stands/apart/bk-f1850771316146cf96e07789ed6ecd54/en/short_content.html",
+          "pdf": "books/why/the/holocaust/stands/apart/bk-f1850771316146cf96e07789ed6ecd54/en/book.pdf"
+        }
+      },
+      "availableLanguages": [
+        "English"
+      ],
+      "currentEdition": "edition-1",
+      "publicationStatus": "published",
+      "pendingEdition": null,
+      "sourceAliases": [
+        "test 10 - 27oct",
+        "Why_the_Holocaust_Stands_Apart"
+      ],
+      "publicationLabel": {},
+      "contributions": []
     }
   ],
   "keywords": {
@@ -11609,6 +11852,12 @@
         "count": 1
       },
       {
+        "id": "term:0788f5b85cdba9308bfb",
+        "label": "antisemitism",
+        "slug": "antisemitism",
+        "count": 1
+      },
+      {
         "id": "term:190a68311ee4c5143762",
         "label": "apeiron",
         "slug": "apeiron",
@@ -11660,6 +11909,12 @@
         "id": "term:9280c8db01b05444ff6a",
         "label": "Aristotle",
         "slug": "aristotle",
+        "count": 1
+      },
+      {
+        "id": "term:2f69fbe6acbd1a2b8679",
+        "label": "Armenian Genocide",
+        "slug": "armenian-genocide",
         "count": 1
       },
       {
@@ -12050,6 +12305,18 @@
         "id": "term:fac907dfc4399f7e85b9",
         "label": "collective forgetting",
         "slug": "collective-forgetting",
+        "count": 1
+      },
+      {
+        "id": "term:1e043246b23aac121089",
+        "label": "collective memory",
+        "slug": "collective-memory",
+        "count": 1
+      },
+      {
+        "id": "term:f48e28c50712666d3736",
+        "label": "colonialism",
+        "slug": "colonialism",
         "count": 1
       },
       {
@@ -12470,6 +12737,12 @@
         "id": "term:931b475d21b01de4abb4",
         "label": "defeated rebellion",
         "slug": "defeated-rebellion",
+        "count": 1
+      },
+      {
+        "id": "term:61a5375c52f84275948d",
+        "label": "dehumanization",
+        "slug": "dehumanization",
         "count": 1
       },
       {
@@ -13391,9 +13664,39 @@
         "count": 1
       },
       {
+        "id": "term:bf104e670429eafb623a",
+        "label": "genocide",
+        "slug": "genocide",
+        "count": 1
+      },
+      {
+        "id": "term:de4142a1f6023980cf10",
+        "label": "Genocide Convention",
+        "slug": "genocide-convention",
+        "count": 1
+      },
+      {
+        "id": "term:a01f919bc4252f34ad0e",
+        "label": "genocide denial",
+        "slug": "genocide-denial",
+        "count": 1
+      },
+      {
+        "id": "term:c7015beeef30a7f71c89",
+        "label": "genocide prevention",
+        "slug": "genocide-prevention",
+        "count": 1
+      },
+      {
         "id": "term:bf8e5ca0b2d5abd3393e",
         "label": "geography",
         "slug": "geography",
+        "count": 1
+      },
+      {
+        "id": "term:678f4468c27ec509b77d",
+        "label": "geopolitical interests",
+        "slug": "geopolitical-interests",
         "count": 1
       },
       {
@@ -13613,6 +13916,12 @@
         "count": 1
       },
       {
+        "id": "term:41bb87ce7bfc1e6535e6",
+        "label": "hierarchy of suffering",
+        "slug": "hierarchy-of-suffering",
+        "count": 1
+      },
+      {
         "id": "term:de3431ec4c3a1525afbf",
         "label": "historical cases",
         "slug": "historical-cases",
@@ -13664,6 +13973,24 @@
         "id": "term:65e456e5cc98309e8657",
         "label": "history of money",
         "slug": "history-of-money",
+        "count": 1
+      },
+      {
+        "id": "term:131fe21ac415c034f348",
+        "label": "Holocaust",
+        "slug": "holocaust",
+        "count": 1
+      },
+      {
+        "id": "term:740afa1ba57ad1ecc3c7",
+        "label": "Holocaust education",
+        "slug": "holocaust-education",
+        "count": 1
+      },
+      {
+        "id": "term:a78cf86ad81c50f647c4",
+        "label": "Holodomor",
+        "slug": "holodomor",
         "count": 1
       },
       {
@@ -13730,6 +14057,12 @@
         "id": "term:a27d4fcec96e7b2b1110",
         "label": "human potential",
         "slug": "human-potential",
+        "count": 1
+      },
+      {
+        "id": "term:1e32fc9e31bf58736a46",
+        "label": "human rights",
+        "slug": "human-rights",
         "count": 1
       },
       {
@@ -13826,6 +14159,12 @@
         "id": "term:530bbbd245066dfbafbc",
         "label": "individual financial autonomy",
         "slug": "individual-financial-autonomy",
+        "count": 1
+      },
+      {
+        "id": "term:cc0881e98261638826f4",
+        "label": "industrialized killing",
+        "slug": "industrialized-killing",
         "count": 1
       },
       {
@@ -14060,6 +14399,12 @@
         "id": "term:4a0ea677a0646d6314dd",
         "label": "kazi rahman",
         "slug": "kazi-rahman",
+        "count": 1
+      },
+      {
+        "id": "term:d167b3eecbafcca40df4",
+        "label": "Khmer Rouge",
+        "slug": "khmer-rouge",
         "count": 1
       },
       {
@@ -14606,6 +14951,12 @@
         "id": "term:f0d912f1aff5c454ed41",
         "label": "naval records",
         "slug": "naval-records",
+        "count": 1
+      },
+      {
+        "id": "term:1c148debb160730a507b",
+        "label": "never again",
+        "slug": "never-again",
         "count": 1
       },
       {
@@ -15719,6 +16070,12 @@
         "count": 1
       },
       {
+        "id": "term:0cab81ddd6cfaa340ac3",
+        "label": "Rwandan Genocide",
+        "slug": "rwandan-genocide",
+        "count": 1
+      },
+      {
         "id": "term:2ea43362035eb29fe40d",
         "label": "s central tension",
         "slug": "s-central-tension",
@@ -16202,6 +16559,12 @@
         "id": "term:c11082081b18798218c6",
         "label": "survival friction",
         "slug": "survival-friction",
+        "count": 1
+      },
+      {
+        "id": "term:0fee4b30657a292818b7",
+        "label": "survivor testimony",
+        "slug": "survivor-testimony",
         "count": 1
       },
       {
@@ -17137,6 +17500,12 @@
         "count": 1
       },
       {
+        "id": "term:0788f5b85cdba9308bfb",
+        "label": "antisemitism",
+        "slug": "antisemitism",
+        "count": 1
+      },
+      {
         "id": "term:190a68311ee4c5143762",
         "label": "apeiron",
         "slug": "apeiron",
@@ -17224,6 +17593,12 @@
         "id": "term:9280c8db01b05444ff6a",
         "label": "Aristote",
         "slug": "aristote",
+        "count": 1
+      },
+      {
+        "id": "term:2f69fbe6acbd1a2b8679",
+        "label": "Armenian Genocide",
+        "slug": "armenian-genocide",
         "count": 1
       },
       {
@@ -17554,6 +17929,18 @@
         "id": "term:944ac43cb914c15e4e86",
         "label": "collecte de données",
         "slug": "collecte-de-donnees",
+        "count": 1
+      },
+      {
+        "id": "term:1e043246b23aac121089",
+        "label": "collective memory",
+        "slug": "collective-memory",
+        "count": 1
+      },
+      {
+        "id": "term:f48e28c50712666d3736",
+        "label": "colonialism",
+        "slug": "colonialism",
         "count": 1
       },
       {
@@ -18112,6 +18499,12 @@
         "id": "term:d37b0534ca0644a663ee",
         "label": "défier les idéaux familiers d'intimité",
         "slug": "defier-les-ideaux-familiers-d-intimite",
+        "count": 1
+      },
+      {
+        "id": "term:61a5375c52f84275948d",
+        "label": "dehumanization",
+        "slug": "dehumanization",
         "count": 1
       },
       {
@@ -18979,9 +19372,39 @@
         "count": 1
       },
       {
+        "id": "term:bf104e670429eafb623a",
+        "label": "genocide",
+        "slug": "genocide",
+        "count": 1
+      },
+      {
+        "id": "term:de4142a1f6023980cf10",
+        "label": "Genocide Convention",
+        "slug": "genocide-convention",
+        "count": 1
+      },
+      {
+        "id": "term:a01f919bc4252f34ad0e",
+        "label": "genocide denial",
+        "slug": "genocide-denial",
+        "count": 1
+      },
+      {
+        "id": "term:c7015beeef30a7f71c89",
+        "label": "genocide prevention",
+        "slug": "genocide-prevention",
+        "count": 1
+      },
+      {
         "id": "term:bf8e5ca0b2d5abd3393e",
         "label": "géographie",
         "slug": "geographie",
+        "count": 1
+      },
+      {
+        "id": "term:678f4468c27ec509b77d",
+        "label": "geopolitical interests",
+        "slug": "geopolitical-interests",
         "count": 1
       },
       {
@@ -19081,6 +19504,12 @@
         "count": 1
       },
       {
+        "id": "term:41bb87ce7bfc1e6535e6",
+        "label": "hierarchy of suffering",
+        "slug": "hierarchy-of-suffering",
+        "count": 1
+      },
+      {
         "id": "term:259aa8ef98a8b91de574",
         "label": "histoire",
         "slug": "histoire",
@@ -19132,6 +19561,30 @@
         "id": "term:65e456e5cc98309e8657",
         "label": "historique de l'argent",
         "slug": "historique-de-l-argent",
+        "count": 1
+      },
+      {
+        "id": "term:131fe21ac415c034f348",
+        "label": "Holocaust",
+        "slug": "holocaust",
+        "count": 1
+      },
+      {
+        "id": "term:740afa1ba57ad1ecc3c7",
+        "label": "Holocaust education",
+        "slug": "holocaust-education",
+        "count": 1
+      },
+      {
+        "id": "term:a78cf86ad81c50f647c4",
+        "label": "Holodomor",
+        "slug": "holodomor",
+        "count": 1
+      },
+      {
+        "id": "term:1e32fc9e31bf58736a46",
+        "label": "human rights",
+        "slug": "human-rights",
         "count": 1
       },
       {
@@ -19246,6 +19699,12 @@
         "id": "term:07b73d1c06d6ac123399",
         "label": "Inconduite dans les établissements",
         "slug": "inconduite-dans-les-etablissements",
+        "count": 1
+      },
+      {
+        "id": "term:cc0881e98261638826f4",
+        "label": "industrialized killing",
+        "slug": "industrialized-killing",
         "count": 1
       },
       {
@@ -19492,6 +19951,12 @@
         "id": "term:4a0ea677a0646d6314dd",
         "label": "Kazi rahman",
         "slug": "kazi-rahman",
+        "count": 1
+      },
+      {
+        "id": "term:d167b3eecbafcca40df4",
+        "label": "Khmer Rouge",
+        "slug": "khmer-rouge",
         "count": 1
       },
       {
@@ -20242,6 +20707,12 @@
         "id": "term:b34917a6e8fcc4717bad",
         "label": "navigation interstellaire",
         "slug": "navigation-interstellaire",
+        "count": 1
+      },
+      {
+        "id": "term:1c148debb160730a507b",
+        "label": "never again",
+        "slug": "never-again",
         "count": 1
       },
       {
@@ -21349,6 +21820,12 @@
         "count": 1
       },
       {
+        "id": "term:0cab81ddd6cfaa340ac3",
+        "label": "Rwandan Genocide",
+        "slug": "rwandan-genocide",
+        "count": 1
+      },
+      {
         "id": "term:2ea43362035eb29fe40d",
         "label": "s tension centrale",
         "slug": "s-tension-centrale",
@@ -21700,6 +22177,12 @@
         "id": "term:2b12e1ae99c07de409b6",
         "label": "survie de l’humanité",
         "slug": "survie-de-l-humanite",
+        "count": 1
+      },
+      {
+        "id": "term:0fee4b30657a292818b7",
+        "label": "survivor testimony",
+        "slug": "survivor-testimony",
         "count": 1
       },
       {
@@ -22665,6 +23148,12 @@
         "count": 1
       },
       {
+        "id": "term:0788f5b85cdba9308bfb",
+        "label": "antisemitism",
+        "slug": "antisemitism",
+        "count": 1
+      },
+      {
         "id": "term:190a68311ee4c5143762",
         "label": "apeiron",
         "slug": "apeiron",
@@ -22722,6 +23211,12 @@
         "id": "term:806a7e7b173c799ef93e",
         "label": "Arktis",
         "slug": "arktis",
+        "count": 1
+      },
+      {
+        "id": "term:2f69fbe6acbd1a2b8679",
+        "label": "Armenian Genocide",
+        "slug": "armenian-genocide",
         "count": 1
       },
       {
@@ -23163,6 +23658,18 @@
         "count": 1
       },
       {
+        "id": "term:1e043246b23aac121089",
+        "label": "collective memory",
+        "slug": "collective-memory",
+        "count": 1
+      },
+      {
+        "id": "term:f48e28c50712666d3736",
+        "label": "colonialism",
+        "slug": "colonialism",
+        "count": 1
+      },
+      {
         "id": "term:e63a10342728822cd5c5",
         "label": "community focuses",
         "slug": "community-focuses",
@@ -23208,6 +23715,12 @@
         "id": "term:5b3d366b68fd786bb2dd",
         "label": "Dauerhaftes Bedauern",
         "slug": "dauerhaftes-bedauern",
+        "count": 1
+      },
+      {
+        "id": "term:61a5375c52f84275948d",
+        "label": "dehumanization",
+        "slug": "dehumanization",
         "count": 1
       },
       {
@@ -24093,6 +24606,30 @@
         "count": 1
       },
       {
+        "id": "term:bf104e670429eafb623a",
+        "label": "genocide",
+        "slug": "genocide",
+        "count": 1
+      },
+      {
+        "id": "term:de4142a1f6023980cf10",
+        "label": "Genocide Convention",
+        "slug": "genocide-convention",
+        "count": 1
+      },
+      {
+        "id": "term:a01f919bc4252f34ad0e",
+        "label": "genocide denial",
+        "slug": "genocide-denial",
+        "count": 1
+      },
+      {
+        "id": "term:c7015beeef30a7f71c89",
+        "label": "genocide prevention",
+        "slug": "genocide-prevention",
+        "count": 1
+      },
+      {
         "id": "term:881534316136db2cf358",
         "label": "Gentechnik",
         "slug": "gentechnik",
@@ -24102,6 +24639,12 @@
         "id": "term:bf8e5ca0b2d5abd3393e",
         "label": "Geographie",
         "slug": "geographie",
+        "count": 1
+      },
+      {
+        "id": "term:678f4468c27ec509b77d",
+        "label": "geopolitical interests",
+        "slug": "geopolitical-interests",
         "count": 1
       },
       {
@@ -24513,6 +25056,12 @@
         "count": 1
       },
       {
+        "id": "term:41bb87ce7bfc1e6535e6",
+        "label": "hierarchy of suffering",
+        "slug": "hierarchy-of-suffering",
+        "count": 1
+      },
+      {
         "id": "term:871d075450c57d1afa07",
         "label": "Hinterfragen",
         "slug": "hinterfragen",
@@ -24570,6 +25119,30 @@
         "id": "term:c4e0b58720ff0cae4a4c",
         "label": "Höhlenbild",
         "slug": "hohlenbild",
+        "count": 1
+      },
+      {
+        "id": "term:131fe21ac415c034f348",
+        "label": "Holocaust",
+        "slug": "holocaust",
+        "count": 1
+      },
+      {
+        "id": "term:740afa1ba57ad1ecc3c7",
+        "label": "Holocaust education",
+        "slug": "holocaust-education",
+        "count": 1
+      },
+      {
+        "id": "term:a78cf86ad81c50f647c4",
+        "label": "Holodomor",
+        "slug": "holodomor",
+        "count": 1
+      },
+      {
+        "id": "term:1e32fc9e31bf58736a46",
+        "label": "human rights",
+        "slug": "human-rights",
         "count": 1
       },
       {
@@ -24636,6 +25209,12 @@
         "id": "term:530bbbd245066dfbafbc",
         "label": "individuelle finanzielle Autonomie",
         "slug": "individuelle-finanzielle-autonomie",
+        "count": 1
+      },
+      {
+        "id": "term:cc0881e98261638826f4",
+        "label": "industrialized killing",
+        "slug": "industrialized-killing",
         "count": 1
       },
       {
@@ -24840,6 +25419,12 @@
         "id": "term:4a0ea677a0646d6314dd",
         "label": "Kazi Rahman",
         "slug": "kazi-rahman",
+        "count": 1
+      },
+      {
+        "id": "term:d167b3eecbafcca40df4",
+        "label": "Khmer Rouge",
+        "slug": "khmer-rouge",
         "count": 1
       },
       {
@@ -25536,6 +26121,12 @@
         "id": "term:231181483a8b653aeee4",
         "label": "neue Religionen",
         "slug": "neue-religionen",
+        "count": 1
+      },
+      {
+        "id": "term:1c148debb160730a507b",
+        "label": "never again",
+        "slug": "never-again",
         "count": 1
       },
       {
@@ -26325,6 +26916,12 @@
         "count": 1
       },
       {
+        "id": "term:0cab81ddd6cfaa340ac3",
+        "label": "Rwandan Genocide",
+        "slug": "rwandan-genocide",
+        "count": 1
+      },
+      {
         "id": "term:2ea43362035eb29fe40d",
         "label": "s zentrale Spannung",
         "slug": "s-zentrale-spannung",
@@ -26646,6 +27243,12 @@
         "id": "term:943ae60b331ded4aee35",
         "label": "Substanz",
         "slug": "substanz",
+        "count": 1
+      },
+      {
+        "id": "term:0fee4b30657a292818b7",
+        "label": "survivor testimony",
+        "slug": "survivor-testimony",
         "count": 1
       },
       {
@@ -28217,6 +28820,12 @@
         "count": 1
       },
       {
+        "id": "term:0788f5b85cdba9308bfb",
+        "label": "antisemitism",
+        "slug": "antisemitism",
+        "count": 1
+      },
+      {
         "id": "term:6d1622d0f2bc1a5dba81",
         "label": "apariencia",
         "slug": "apariencia",
@@ -28274,6 +28883,12 @@
         "id": "term:167a79b5d437ac9ac3df",
         "label": "armas",
         "slug": "armas",
+        "count": 1
+      },
+      {
+        "id": "term:2f69fbe6acbd1a2b8679",
+        "label": "Armenian Genocide",
+        "slug": "armenian-genocide",
         "count": 1
       },
       {
@@ -28646,6 +29261,18 @@
         "id": "term:93bc5d02dc2a24b53653",
         "label": "colapso",
         "slug": "colapso",
+        "count": 1
+      },
+      {
+        "id": "term:1e043246b23aac121089",
+        "label": "collective memory",
+        "slug": "collective-memory",
+        "count": 1
+      },
+      {
+        "id": "term:f48e28c50712666d3736",
+        "label": "colonialism",
+        "slug": "colonialism",
         "count": 1
       },
       {
@@ -29222,6 +29849,12 @@
         "id": "term:022eeccf3fa36e4f27c1",
         "label": "declive de la ciudad",
         "slug": "declive-de-la-ciudad",
+        "count": 1
+      },
+      {
+        "id": "term:61a5375c52f84275948d",
+        "label": "dehumanization",
+        "slug": "dehumanization",
         "count": 1
       },
       {
@@ -30131,9 +30764,39 @@
         "count": 1
       },
       {
+        "id": "term:bf104e670429eafb623a",
+        "label": "genocide",
+        "slug": "genocide",
+        "count": 1
+      },
+      {
+        "id": "term:de4142a1f6023980cf10",
+        "label": "Genocide Convention",
+        "slug": "genocide-convention",
+        "count": 1
+      },
+      {
+        "id": "term:a01f919bc4252f34ad0e",
+        "label": "genocide denial",
+        "slug": "genocide-denial",
+        "count": 1
+      },
+      {
+        "id": "term:c7015beeef30a7f71c89",
+        "label": "genocide prevention",
+        "slug": "genocide-prevention",
+        "count": 1
+      },
+      {
         "id": "term:bf8e5ca0b2d5abd3393e",
         "label": "geografía",
         "slug": "geografia",
+        "count": 1
+      },
+      {
+        "id": "term:678f4468c27ec509b77d",
+        "label": "geopolitical interests",
+        "slug": "geopolitical-interests",
         "count": 1
       },
       {
@@ -30251,6 +30914,12 @@
         "count": 1
       },
       {
+        "id": "term:41bb87ce7bfc1e6535e6",
+        "label": "hierarchy of suffering",
+        "slug": "hierarchy-of-suffering",
+        "count": 1
+      },
+      {
         "id": "term:259aa8ef98a8b91de574",
         "label": "historia",
         "slug": "historia",
@@ -30320,6 +30989,30 @@
         "id": "term:bbcd628c07a0e35a5a86",
         "label": "hogar",
         "slug": "hogar",
+        "count": 1
+      },
+      {
+        "id": "term:131fe21ac415c034f348",
+        "label": "Holocaust",
+        "slug": "holocaust",
+        "count": 1
+      },
+      {
+        "id": "term:740afa1ba57ad1ecc3c7",
+        "label": "Holocaust education",
+        "slug": "holocaust-education",
+        "count": 1
+      },
+      {
+        "id": "term:a78cf86ad81c50f647c4",
+        "label": "Holodomor",
+        "slug": "holodomor",
+        "count": 1
+      },
+      {
+        "id": "term:1e32fc9e31bf58736a46",
+        "label": "human rights",
+        "slug": "human-rights",
         "count": 1
       },
       {
@@ -30440,6 +31133,12 @@
         "id": "term:401a3f62b5a03214f92b",
         "label": "Industria exterior",
         "slug": "industria-exterior",
+        "count": 1
+      },
+      {
+        "id": "term:cc0881e98261638826f4",
+        "label": "industrialized killing",
+        "slug": "industrialized-killing",
         "count": 1
       },
       {
@@ -30728,6 +31427,12 @@
         "id": "term:4a0ea677a0646d6314dd",
         "label": "Kazi Rahman",
         "slug": "kazi-rahman",
+        "count": 1
+      },
+      {
+        "id": "term:d167b3eecbafcca40df4",
+        "label": "Khmer Rouge",
+        "slug": "khmer-rouge",
         "count": 1
       },
       {
@@ -31436,6 +32141,12 @@
         "id": "term:19f032b28cfe5e5f7bb2",
         "label": "necesidades de financiación",
         "slug": "necesidades-de-financiacion",
+        "count": 1
+      },
+      {
+        "id": "term:1c148debb160730a507b",
+        "label": "never again",
+        "slug": "never-again",
         "count": 1
       },
       {
@@ -32507,6 +33218,12 @@
         "count": 1
       },
       {
+        "id": "term:0cab81ddd6cfaa340ac3",
+        "label": "Rwandan Genocide",
+        "slug": "rwandan-genocide",
+        "count": 1
+      },
+      {
         "id": "term:d17bd922ea9dd14143a1",
         "label": "sacrificio",
         "slug": "sacrificio",
@@ -32786,6 +33503,12 @@
         "id": "term:e91a4a95f2559cd26197",
         "label": "supuestos alunizajes fingidos",
         "slug": "supuestos-alunizajes-fingidos",
+        "count": 1
+      },
+      {
+        "id": "term:0fee4b30657a292818b7",
+        "label": "survivor testimony",
+        "slug": "survivor-testimony",
         "count": 1
       },
       {
@@ -33763,6 +34486,12 @@
         "count": 1
       },
       {
+        "id": "term:0788f5b85cdba9308bfb",
+        "label": "antisemitism",
+        "slug": "antisemitism",
+        "count": 1
+      },
+      {
         "id": "term:6d1622d0f2bc1a5dba81",
         "label": "aparência",
         "slug": "aparencia",
@@ -33826,6 +34555,12 @@
         "id": "term:167a79b5d437ac9ac3df",
         "label": "armas",
         "slug": "armas",
+        "count": 1
+      },
+      {
+        "id": "term:2f69fbe6acbd1a2b8679",
+        "label": "Armenian Genocide",
+        "slug": "armenian-genocide",
         "count": 1
       },
       {
@@ -34258,6 +34993,18 @@
         "id": "term:93bc5d02dc2a24b53653",
         "label": "colapso",
         "slug": "colapso",
+        "count": 1
+      },
+      {
+        "id": "term:1e043246b23aac121089",
+        "label": "collective memory",
+        "slug": "collective-memory",
+        "count": 1
+      },
+      {
+        "id": "term:f48e28c50712666d3736",
+        "label": "colonialism",
+        "slug": "colonialism",
         "count": 1
       },
       {
@@ -34786,6 +35533,12 @@
         "id": "term:022eeccf3fa36e4f27c1",
         "label": "declínio da cidade",
         "slug": "declinio-da-cidade",
+        "count": 1
+      },
+      {
+        "id": "term:61a5375c52f84275948d",
+        "label": "dehumanization",
+        "slug": "dehumanization",
         "count": 1
       },
       {
@@ -35731,9 +36484,39 @@
         "count": 1
       },
       {
+        "id": "term:bf104e670429eafb623a",
+        "label": "genocide",
+        "slug": "genocide",
+        "count": 1
+      },
+      {
+        "id": "term:de4142a1f6023980cf10",
+        "label": "Genocide Convention",
+        "slug": "genocide-convention",
+        "count": 1
+      },
+      {
+        "id": "term:a01f919bc4252f34ad0e",
+        "label": "genocide denial",
+        "slug": "genocide-denial",
+        "count": 1
+      },
+      {
+        "id": "term:c7015beeef30a7f71c89",
+        "label": "genocide prevention",
+        "slug": "genocide-prevention",
+        "count": 1
+      },
+      {
         "id": "term:bf8e5ca0b2d5abd3393e",
         "label": "geografia",
         "slug": "geografia",
+        "count": 1
+      },
+      {
+        "id": "term:678f4468c27ec509b77d",
+        "label": "geopolitical interests",
+        "slug": "geopolitical-interests",
         "count": 1
       },
       {
@@ -35809,6 +36592,12 @@
         "count": 1
       },
       {
+        "id": "term:41bb87ce7bfc1e6535e6",
+        "label": "hierarchy of suffering",
+        "slug": "hierarchy-of-suffering",
+        "count": 1
+      },
+      {
         "id": "term:259aa8ef98a8b91de574",
         "label": "história",
         "slug": "historia",
@@ -35872,6 +36661,30 @@
         "id": "term:605dc5dacdc80491ab9a",
         "label": "histórias herdadas",
         "slug": "historias-herdadas",
+        "count": 1
+      },
+      {
+        "id": "term:131fe21ac415c034f348",
+        "label": "Holocaust",
+        "slug": "holocaust",
+        "count": 1
+      },
+      {
+        "id": "term:740afa1ba57ad1ecc3c7",
+        "label": "Holocaust education",
+        "slug": "holocaust-education",
+        "count": 1
+      },
+      {
+        "id": "term:a78cf86ad81c50f647c4",
+        "label": "Holodomor",
+        "slug": "holodomor",
+        "count": 1
+      },
+      {
+        "id": "term:1e32fc9e31bf58736a46",
+        "label": "human rights",
+        "slug": "human-rights",
         "count": 1
       },
       {
@@ -36010,6 +36823,12 @@
         "id": "term:401a3f62b5a03214f92b",
         "label": "Indústria externa",
         "slug": "industria-externa",
+        "count": 1
+      },
+      {
+        "id": "term:cc0881e98261638826f4",
+        "label": "industrialized killing",
+        "slug": "industrialized-killing",
         "count": 1
       },
       {
@@ -36256,6 +37075,12 @@
         "id": "term:4a0ea677a0646d6314dd",
         "label": "Kazi Rahman",
         "slug": "kazi-rahman",
+        "count": 1
+      },
+      {
+        "id": "term:d167b3eecbafcca40df4",
+        "label": "Khmer Rouge",
+        "slug": "khmer-rouge",
         "count": 1
       },
       {
@@ -36832,6 +37657,12 @@
         "id": "term:19f032b28cfe5e5f7bb2",
         "label": "Necessidades de financiamento",
         "slug": "necessidades-de-financiamento",
+        "count": 1
+      },
+      {
+        "id": "term:1c148debb160730a507b",
+        "label": "never again",
+        "slug": "never-again",
         "count": 1
       },
       {
@@ -37951,6 +38782,12 @@
         "count": 1
       },
       {
+        "id": "term:0cab81ddd6cfaa340ac3",
+        "label": "Rwandan Genocide",
+        "slug": "rwandan-genocide",
+        "count": 1
+      },
+      {
         "id": "term:d17bd922ea9dd14143a1",
         "label": "sacrifício",
         "slug": "sacrificio",
@@ -38242,6 +39079,12 @@
         "id": "term:95987015c18c8ad2b756",
         "label": "supressão da energia ilimitada",
         "slug": "supressao-da-energia-ilimitada",
+        "count": 1
+      },
+      {
+        "id": "term:0fee4b30657a292818b7",
+        "label": "survivor testimony",
+        "slug": "survivor-testimony",
         "count": 1
       },
       {
@@ -39177,6 +40020,12 @@
         "count": 1
       },
       {
+        "id": "term:0788f5b85cdba9308bfb",
+        "label": "antisemitism",
+        "slug": "antisemitism",
+        "count": 1
+      },
+      {
         "id": "term:190a68311ee4c5143762",
         "label": "apeiron",
         "slug": "apeiron",
@@ -39216,6 +40065,12 @@
         "id": "term:9280c8db01b05444ff6a",
         "label": "Aristotele",
         "slug": "aristotele",
+        "count": 1
+      },
+      {
+        "id": "term:2f69fbe6acbd1a2b8679",
+        "label": "Armenian Genocide",
+        "slug": "armenian-genocide",
         "count": 1
       },
       {
@@ -39603,6 +40458,12 @@
         "count": 1
       },
       {
+        "id": "term:1e043246b23aac121089",
+        "label": "collective memory",
+        "slug": "collective-memory",
+        "count": 1
+      },
+      {
         "id": "term:e64f3049ab3f5a8dc4ee",
         "label": "collegamento chimico",
         "slug": "collegamento-chimico",
@@ -39612,6 +40473,12 @@
         "id": "term:ac8e76ddd46aabcf281f",
         "label": "collegamento chimico planetario",
         "slug": "collegamento-chimico-planetario",
+        "count": 1
+      },
+      {
+        "id": "term:f48e28c50712666d3736",
+        "label": "colonialism",
+        "slug": "colonialism",
         "count": 1
       },
       {
@@ -40062,6 +40929,12 @@
         "id": "term:022eeccf3fa36e4f27c1",
         "label": "declino della città",
         "slug": "declino-della-citta",
+        "count": 1
+      },
+      {
+        "id": "term:61a5375c52f84275948d",
+        "label": "dehumanization",
+        "slug": "dehumanization",
         "count": 1
       },
       {
@@ -40803,9 +41676,39 @@
         "count": 1
       },
       {
+        "id": "term:bf104e670429eafb623a",
+        "label": "genocide",
+        "slug": "genocide",
+        "count": 1
+      },
+      {
+        "id": "term:de4142a1f6023980cf10",
+        "label": "Genocide Convention",
+        "slug": "genocide-convention",
+        "count": 1
+      },
+      {
+        "id": "term:a01f919bc4252f34ad0e",
+        "label": "genocide denial",
+        "slug": "genocide-denial",
+        "count": 1
+      },
+      {
+        "id": "term:c7015beeef30a7f71c89",
+        "label": "genocide prevention",
+        "slug": "genocide-prevention",
+        "count": 1
+      },
+      {
         "id": "term:bf8e5ca0b2d5abd3393e",
         "label": "geografia",
         "slug": "geografia",
+        "count": 1
+      },
+      {
+        "id": "term:678f4468c27ec509b77d",
+        "label": "geopolitical interests",
+        "slug": "geopolitical-interests",
         "count": 1
       },
       {
@@ -40908,6 +41811,36 @@
         "id": "term:7d5ba87bf30607e97410",
         "label": "Henry Clerval",
         "slug": "henry-clerval",
+        "count": 1
+      },
+      {
+        "id": "term:41bb87ce7bfc1e6535e6",
+        "label": "hierarchy of suffering",
+        "slug": "hierarchy-of-suffering",
+        "count": 1
+      },
+      {
+        "id": "term:131fe21ac415c034f348",
+        "label": "Holocaust",
+        "slug": "holocaust",
+        "count": 1
+      },
+      {
+        "id": "term:740afa1ba57ad1ecc3c7",
+        "label": "Holocaust education",
+        "slug": "holocaust-education",
+        "count": 1
+      },
+      {
+        "id": "term:a78cf86ad81c50f647c4",
+        "label": "Holodomor",
+        "slug": "holodomor",
+        "count": 1
+      },
+      {
+        "id": "term:1e32fc9e31bf58736a46",
+        "label": "human rights",
+        "slug": "human-rights",
         "count": 1
       },
       {
@@ -41094,6 +42027,12 @@
         "id": "term:401a3f62b5a03214f92b",
         "label": "industria esterna",
         "slug": "industria-esterna",
+        "count": 1
+      },
+      {
+        "id": "term:cc0881e98261638826f4",
+        "label": "industrialized killing",
+        "slug": "industrialized-killing",
         "count": 1
       },
       {
@@ -41364,6 +42303,12 @@
         "id": "term:4a0ea677a0646d6314dd",
         "label": "Kazi rahman",
         "slug": "kazi-rahman",
+        "count": 1
+      },
+      {
+        "id": "term:d167b3eecbafcca40df4",
+        "label": "Khmer Rouge",
+        "slug": "khmer-rouge",
         "count": 1
       },
       {
@@ -42000,6 +42945,12 @@
         "id": "term:19f032b28cfe5e5f7bb2",
         "label": "necessità di finanziamento",
         "slug": "necessita-di-finanziamento",
+        "count": 1
+      },
+      {
+        "id": "term:1c148debb160730a507b",
+        "label": "never again",
+        "slug": "never-again",
         "count": 1
       },
       {
@@ -43131,6 +44082,12 @@
         "count": 1
       },
       {
+        "id": "term:0cab81ddd6cfaa340ac3",
+        "label": "Rwandan Genocide",
+        "slug": "rwandan-genocide",
+        "count": 1
+      },
+      {
         "id": "term:d17bd922ea9dd14143a1",
         "label": "sacrificio",
         "slug": "sacrificio",
@@ -43800,6 +44757,12 @@
         "id": "term:953809134349e04807f8",
         "label": "supera l'ottimizzazione",
         "slug": "supera-l-ottimizzazione",
+        "count": 1
+      },
+      {
+        "id": "term:0fee4b30657a292818b7",
+        "label": "survivor testimony",
+        "slug": "survivor-testimony",
         "count": 1
       },
       {
@@ -44753,6 +45716,12 @@
         "count": 1
       },
       {
+        "id": "term:0788f5b85cdba9308bfb",
+        "label": "antisemitism",
+        "slug": "antisemitism",
+        "count": 1
+      },
+      {
         "id": "term:8eb3dc61e411fa3bf590",
         "label": "aparențe familiare",
         "slug": "aparente-familiare",
@@ -44822,6 +45791,12 @@
         "id": "term:167a79b5d437ac9ac3df",
         "label": "arme",
         "slug": "arme",
+        "count": 1
+      },
+      {
+        "id": "term:2f69fbe6acbd1a2b8679",
+        "label": "Armenian Genocide",
+        "slug": "armenian-genocide",
         "count": 1
       },
       {
@@ -45230,6 +46205,18 @@
         "id": "term:944ac43cb914c15e4e86",
         "label": "colectarea datelor",
         "slug": "colectarea-datelor",
+        "count": 1
+      },
+      {
+        "id": "term:1e043246b23aac121089",
+        "label": "collective memory",
+        "slug": "collective-memory",
+        "count": 1
+      },
+      {
+        "id": "term:f48e28c50712666d3736",
+        "label": "colonialism",
+        "slug": "colonialism",
         "count": 1
       },
       {
@@ -45704,6 +46691,12 @@
         "id": "term:022eeccf3fa36e4f27c1",
         "label": "declinul orașului",
         "slug": "declinul-orasului",
+        "count": 1
+      },
+      {
+        "id": "term:61a5375c52f84275948d",
+        "label": "dehumanization",
+        "slug": "dehumanization",
         "count": 1
       },
       {
@@ -46463,9 +47456,39 @@
         "count": 1
       },
       {
+        "id": "term:bf104e670429eafb623a",
+        "label": "genocide",
+        "slug": "genocide",
+        "count": 1
+      },
+      {
+        "id": "term:de4142a1f6023980cf10",
+        "label": "Genocide Convention",
+        "slug": "genocide-convention",
+        "count": 1
+      },
+      {
+        "id": "term:a01f919bc4252f34ad0e",
+        "label": "genocide denial",
+        "slug": "genocide-denial",
+        "count": 1
+      },
+      {
+        "id": "term:c7015beeef30a7f71c89",
+        "label": "genocide prevention",
+        "slug": "genocide-prevention",
+        "count": 1
+      },
+      {
         "id": "term:bf8e5ca0b2d5abd3393e",
         "label": "geografie",
         "slug": "geografie",
+        "count": 1
+      },
+      {
+        "id": "term:678f4468c27ec509b77d",
+        "label": "geopolitical interests",
+        "slug": "geopolitical-interests",
         "count": 1
       },
       {
@@ -46538,6 +47561,36 @@
         "id": "term:9350fd594ff91084f377",
         "label": "Heraclitus",
         "slug": "heraclitus",
+        "count": 1
+      },
+      {
+        "id": "term:41bb87ce7bfc1e6535e6",
+        "label": "hierarchy of suffering",
+        "slug": "hierarchy-of-suffering",
+        "count": 1
+      },
+      {
+        "id": "term:131fe21ac415c034f348",
+        "label": "Holocaust",
+        "slug": "holocaust",
+        "count": 1
+      },
+      {
+        "id": "term:740afa1ba57ad1ecc3c7",
+        "label": "Holocaust education",
+        "slug": "holocaust-education",
+        "count": 1
+      },
+      {
+        "id": "term:a78cf86ad81c50f647c4",
+        "label": "Holodomor",
+        "slug": "holodomor",
+        "count": 1
+      },
+      {
+        "id": "term:1e32fc9e31bf58736a46",
+        "label": "human rights",
+        "slug": "human-rights",
         "count": 1
       },
       {
@@ -46628,6 +47681,12 @@
         "id": "term:96805cad43a472de534d",
         "label": "Incidentul Golfului Tonkin",
         "slug": "incidentul-golfului-tonkin",
+        "count": 1
+      },
+      {
+        "id": "term:cc0881e98261638826f4",
+        "label": "industrialized killing",
+        "slug": "industrialized-killing",
         "count": 1
       },
       {
@@ -47102,6 +48161,12 @@
         "id": "term:4a0ea677a0646d6314dd",
         "label": "Kazi Rahman",
         "slug": "kazi-rahman",
+        "count": 1
+      },
+      {
+        "id": "term:d167b3eecbafcca40df4",
+        "label": "Khmer Rouge",
+        "slug": "khmer-rouge",
         "count": 1
       },
       {
@@ -47702,6 +48767,12 @@
         "id": "term:cfde35efbfd1159e5920",
         "label": "neînțelegere",
         "slug": "neintelegere",
+        "count": 1
+      },
+      {
+        "id": "term:1c148debb160730a507b",
+        "label": "never again",
+        "slug": "never-again",
         "count": 1
       },
       {
@@ -48713,6 +49784,12 @@
         "count": 1
       },
       {
+        "id": "term:0cab81ddd6cfaa340ac3",
+        "label": "Rwandan Genocide",
+        "slug": "rwandan-genocide",
+        "count": 1
+      },
+      {
         "id": "term:2ea43362035eb29fe40d",
         "label": "s tensiunea centrală",
         "slug": "s-tensiunea-centrala",
@@ -49208,6 +50285,12 @@
         "id": "term:dc3bd91728e41e0e2d6b",
         "label": "sursa fără limite",
         "slug": "sursa-fara-limite",
+        "count": 1
+      },
+      {
+        "id": "term:0fee4b30657a292818b7",
+        "label": "survivor testimony",
+        "slug": "survivor-testimony",
         "count": 1
       },
       {
@@ -50071,6 +51154,12 @@
         "count": 1
       },
       {
+        "id": "term:0788f5b85cdba9308bfb",
+        "label": "antisemitism",
+        "slug": "antisemitism",
+        "count": 1
+      },
+      {
         "id": "term:ca806f7e658a162a9230",
         "label": "antysemickie twierdzenia",
         "slug": "antysemickie-twierdzenia",
@@ -50104,6 +51193,12 @@
         "id": "term:806a7e7b173c799ef93e",
         "label": "Arktyka",
         "slug": "arktyka",
+        "count": 1
+      },
+      {
+        "id": "term:2f69fbe6acbd1a2b8679",
+        "label": "Armenian Genocide",
+        "slug": "armenian-genocide",
         "count": 1
       },
       {
@@ -50395,6 +51490,18 @@
         "count": 1
       },
       {
+        "id": "term:1e043246b23aac121089",
+        "label": "collective memory",
+        "slug": "collective-memory",
+        "count": 1
+      },
+      {
+        "id": "term:f48e28c50712666d3736",
+        "label": "colonialism",
+        "slug": "colonialism",
+        "count": 1
+      },
+      {
         "id": "term:5d2b06d8cfab8e07406b",
         "label": "coroczne losowanie",
         "slug": "coroczne-losowanie",
@@ -50482,6 +51589,12 @@
         "id": "term:cc9c22481c08115831b2",
         "label": "decyzje osobiste",
         "slug": "decyzje-osobiste",
+        "count": 1
+      },
+      {
+        "id": "term:61a5375c52f84275948d",
+        "label": "dehumanization",
+        "slug": "dehumanization",
         "count": 1
       },
       {
@@ -50941,9 +52054,39 @@
         "count": 1
       },
       {
+        "id": "term:bf104e670429eafb623a",
+        "label": "genocide",
+        "slug": "genocide",
+        "count": 1
+      },
+      {
+        "id": "term:de4142a1f6023980cf10",
+        "label": "Genocide Convention",
+        "slug": "genocide-convention",
+        "count": 1
+      },
+      {
+        "id": "term:a01f919bc4252f34ad0e",
+        "label": "genocide denial",
+        "slug": "genocide-denial",
+        "count": 1
+      },
+      {
+        "id": "term:c7015beeef30a7f71c89",
+        "label": "genocide prevention",
+        "slug": "genocide-prevention",
+        "count": 1
+      },
+      {
         "id": "term:bf8e5ca0b2d5abd3393e",
         "label": "Geografia",
         "slug": "geografia",
+        "count": 1
+      },
+      {
+        "id": "term:678f4468c27ec509b77d",
+        "label": "geopolitical interests",
+        "slug": "geopolitical-interests",
         "count": 1
       },
       {
@@ -51049,6 +52192,12 @@
         "count": 1
       },
       {
+        "id": "term:41bb87ce7bfc1e6535e6",
+        "label": "hierarchy of suffering",
+        "slug": "hierarchy-of-suffering",
+        "count": 1
+      },
+      {
         "id": "term:259aa8ef98a8b91de574",
         "label": "historia",
         "slug": "historia",
@@ -51088,6 +52237,30 @@
         "id": "term:10013ae2a13ba5e09dc2",
         "label": "hojne działania",
         "slug": "hojne-dzia-ania",
+        "count": 1
+      },
+      {
+        "id": "term:131fe21ac415c034f348",
+        "label": "Holocaust",
+        "slug": "holocaust",
+        "count": 1
+      },
+      {
+        "id": "term:740afa1ba57ad1ecc3c7",
+        "label": "Holocaust education",
+        "slug": "holocaust-education",
+        "count": 1
+      },
+      {
+        "id": "term:a78cf86ad81c50f647c4",
+        "label": "Holodomor",
+        "slug": "holodomor",
+        "count": 1
+      },
+      {
+        "id": "term:1e32fc9e31bf58736a46",
+        "label": "human rights",
+        "slug": "human-rights",
         "count": 1
       },
       {
@@ -51136,6 +52309,12 @@
         "id": "term:96805cad43a472de534d",
         "label": "Incydent Zatoki Tonkińskiej",
         "slug": "incydent-zatoki-tonkinskiej",
+        "count": 1
+      },
+      {
+        "id": "term:cc0881e98261638826f4",
+        "label": "industrialized killing",
+        "slug": "industrialized-killing",
         "count": 1
       },
       {
@@ -51310,6 +52489,12 @@
         "id": "term:dfbaf987aafe3c38663a",
         "label": "Katniss",
         "slug": "katniss",
+        "count": 1
+      },
+      {
+        "id": "term:d167b3eecbafcca40df4",
+        "label": "Khmer Rouge",
+        "slug": "khmer-rouge",
         "count": 1
       },
       {
@@ -52006,6 +53191,12 @@
         "id": "term:55c4f52a02f740d1a575",
         "label": "nazwy i wspomnienia",
         "slug": "nazwy-i-wspomnienia",
+        "count": 1
+      },
+      {
+        "id": "term:1c148debb160730a507b",
+        "label": "never again",
+        "slug": "never-again",
         "count": 1
       },
       {
@@ -53419,6 +54610,12 @@
         "count": 1
       },
       {
+        "id": "term:0cab81ddd6cfaa340ac3",
+        "label": "Rwandan Genocide",
+        "slug": "rwandan-genocide",
+        "count": 1
+      },
+      {
         "id": "term:3e5aac2fc285ff1e70cd",
         "label": "Ryzyko dla pracowników",
         "slug": "ryzyko-dla-pracownikow",
@@ -53794,6 +54991,12 @@
         "id": "term:6878423a15f8c47acd55",
         "label": "substancji proponowanych",
         "slug": "substancji-proponowanych",
+        "count": 1
+      },
+      {
+        "id": "term:0fee4b30657a292818b7",
+        "label": "survivor testimony",
+        "slug": "survivor-testimony",
         "count": 1
       },
       {
