@@ -34,7 +34,7 @@
       "name": "Polski"
     }
   ],
-  "bookCount": 11,
+  "bookCount": 12,
   "books": [
     {
       "id": "bk-dd18acafe4c142df",
@@ -11409,6 +11409,252 @@
       ],
       "publicationLabel": {},
       "contributions": []
+    },
+    {
+      "id": "bk-46c5e4008e644e93822326b7a4c786fc",
+      "sourceId": "The_Dacians",
+      "directory": "books/the/dacians/bk-46c5e4008e644e93822326b7a4c786fc",
+      "route": [
+        "the",
+        "dacians"
+      ],
+      "category": "History",
+      "group": "history",
+      "title": {
+        "en": "The Dacians"
+      },
+      "subtitle": {
+        "en": "A careful look at what ancient writers, excavations, and genetic studies can be asked, and at the limits those records do not cross."
+      },
+      "shortDescription": {
+        "en": "The book examines the people Greek and Latin writers called Dacians and Getae through written sources, archaeological remains, and genetic studies. Its scope runs from classical names and scattered language evidence, through Carpathian and lower Danube centuries before a named kingdom, to fortress building, the wars, and the later Roman province. A central question is how far ancient authors, excavated places, and sampled genomes can carry an account of named communities, a kingdom confronted by Rome, settlement, ancestry, and arguments about continuity. Thematic tensions arise around whether a shared classical name, frontier religious stories, mountain sanctuaries, Roman war narratives, provincial inscriptions, and genetic samples from different centuries and landscapes belong in one account. Those records leave open what written testimony, excavation, and genetic comparison can and cannot answer about cult, language, political power, population movement, and any present-day link with the ancient communities."
+      },
+      "keywords": {
+        "en": [
+          "Dacians",
+          "Getae",
+          "Dacian kingdom",
+          "Roman Dacia",
+          "written sources",
+          "archaeology",
+          "ancient DNA",
+          "ancestry",
+          "Decebalus",
+          "Trajan",
+          "Dacian wars",
+          "Burebista",
+          "Dacian fortresses",
+          "Sarmizegetusa Regia",
+          "Danube",
+          "Carpathians",
+          "Dacian language",
+          "Roman withdrawal",
+          "Daco-Roman continuity",
+          "free Dacians"
+        ],
+        "fr": [
+          "Dacians",
+          "Getae",
+          "Dacian kingdom",
+          "Roman Dacia",
+          "written sources",
+          "archaeology",
+          "ancient DNA",
+          "ancestry",
+          "Decebalus",
+          "Trajan",
+          "Dacian wars",
+          "Burebista",
+          "Dacian fortresses",
+          "Sarmizegetusa Regia",
+          "Danube",
+          "Carpathians",
+          "Dacian language",
+          "Roman withdrawal",
+          "Daco-Roman continuity",
+          "free Dacians"
+        ],
+        "de": [
+          "Dacians",
+          "Getae",
+          "Dacian kingdom",
+          "Roman Dacia",
+          "written sources",
+          "archaeology",
+          "ancient DNA",
+          "ancestry",
+          "Decebalus",
+          "Trajan",
+          "Dacian wars",
+          "Burebista",
+          "Dacian fortresses",
+          "Sarmizegetusa Regia",
+          "Danube",
+          "Carpathians",
+          "Dacian language",
+          "Roman withdrawal",
+          "Daco-Roman continuity",
+          "free Dacians"
+        ],
+        "es": [
+          "Dacians",
+          "Getae",
+          "Dacian kingdom",
+          "Roman Dacia",
+          "written sources",
+          "archaeology",
+          "ancient DNA",
+          "ancestry",
+          "Decebalus",
+          "Trajan",
+          "Dacian wars",
+          "Burebista",
+          "Dacian fortresses",
+          "Sarmizegetusa Regia",
+          "Danube",
+          "Carpathians",
+          "Dacian language",
+          "Roman withdrawal",
+          "Daco-Roman continuity",
+          "free Dacians"
+        ],
+        "pt": [
+          "Dacians",
+          "Getae",
+          "Dacian kingdom",
+          "Roman Dacia",
+          "written sources",
+          "archaeology",
+          "ancient DNA",
+          "ancestry",
+          "Decebalus",
+          "Trajan",
+          "Dacian wars",
+          "Burebista",
+          "Dacian fortresses",
+          "Sarmizegetusa Regia",
+          "Danube",
+          "Carpathians",
+          "Dacian language",
+          "Roman withdrawal",
+          "Daco-Roman continuity",
+          "free Dacians"
+        ],
+        "it": [
+          "Dacians",
+          "Getae",
+          "Dacian kingdom",
+          "Roman Dacia",
+          "written sources",
+          "archaeology",
+          "ancient DNA",
+          "ancestry",
+          "Decebalus",
+          "Trajan",
+          "Dacian wars",
+          "Burebista",
+          "Dacian fortresses",
+          "Sarmizegetusa Regia",
+          "Danube",
+          "Carpathians",
+          "Dacian language",
+          "Roman withdrawal",
+          "Daco-Roman continuity",
+          "free Dacians"
+        ],
+        "ro": [
+          "Dacians",
+          "Getae",
+          "Dacian kingdom",
+          "Roman Dacia",
+          "written sources",
+          "archaeology",
+          "ancient DNA",
+          "ancestry",
+          "Decebalus",
+          "Trajan",
+          "Dacian wars",
+          "Burebista",
+          "Dacian fortresses",
+          "Sarmizegetusa Regia",
+          "Danube",
+          "Carpathians",
+          "Dacian language",
+          "Roman withdrawal",
+          "Daco-Roman continuity",
+          "free Dacians"
+        ],
+        "pl": [
+          "Dacians",
+          "Getae",
+          "Dacian kingdom",
+          "Roman Dacia",
+          "written sources",
+          "archaeology",
+          "ancient DNA",
+          "ancestry",
+          "Decebalus",
+          "Trajan",
+          "Dacian wars",
+          "Burebista",
+          "Dacian fortresses",
+          "Sarmizegetusa Regia",
+          "Danube",
+          "Carpathians",
+          "Dacian language",
+          "Roman withdrawal",
+          "Daco-Roman continuity",
+          "free Dacians"
+        ]
+      },
+      "keywordIds": [
+        "term:7bb05ec8e3cf77e0183b",
+        "term:570dabc195ff69203f4c",
+        "term:de483b848c2e4a313c9d",
+        "term:0921728ef9688339a9a2",
+        "term:eda3c36818a2bc13f568",
+        "term:ed82e79b1df27dee2cf1",
+        "term:ede27406a40dad395484",
+        "term:15e253e68190acd4ee11",
+        "term:af09372416db84398e54",
+        "term:fcae800202e3f0ee373a",
+        "term:f71f9207219e359d49af",
+        "term:eacbb23e8219c4c6b785",
+        "term:b2f1d680c7bf8394f0e1",
+        "term:f3b30c9fc755b51ce8ff",
+        "term:ebf340b317c044d970fc",
+        "term:decd4644f17deb7572a7",
+        "term:040aee8b795086bacca2",
+        "term:b963df55886330870100",
+        "term:5d31569af64188a9dcbf",
+        "term:dff87b084339de1da772"
+      ],
+      "coverUrl": {
+        "en": "books/the/dacians/bk-46c5e4008e644e93822326b7a4c786fc/en/cover.svg"
+      },
+      "thumbnailUrl": {
+        "en": "books/the/dacians/bk-46c5e4008e644e93822326b7a4c786fc/en/cover.svg"
+      },
+      "editions": {
+        "en": {
+          "book": "books/the/dacians/bk-46c5e4008e644e93822326b7a4c786fc/en/book.html",
+          "cover": "books/the/dacians/bk-46c5e4008e644e93822326b7a4c786fc/en/cover.svg",
+          "thumbnail": "books/the/dacians/bk-46c5e4008e644e93822326b7a4c786fc/en/cover.svg",
+          "fullContent": "books/the/dacians/bk-46c5e4008e644e93822326b7a4c786fc/en/full_content.html",
+          "shortContent": "books/the/dacians/bk-46c5e4008e644e93822326b7a4c786fc/en/short_content.html"
+        }
+      },
+      "availableLanguages": [
+        "English"
+      ],
+      "currentEdition": "edition-1",
+      "publicationStatus": "published",
+      "pendingEdition": null,
+      "sourceAliases": [
+        "The_Dacians"
+      ],
+      "publicationLabel": {},
+      "contributions": []
     }
   ],
   "keywords": {
@@ -11810,9 +12056,21 @@
         "count": 1
       },
       {
+        "id": "term:15e253e68190acd4ee11",
+        "label": "ancestry",
+        "slug": "ancestry",
+        "count": 1
+      },
+      {
         "id": "term:010f7034642609e20b31",
         "label": "ancient astronauts",
         "slug": "ancient-astronauts",
+        "count": 1
+      },
+      {
+        "id": "term:ede27406a40dad395484",
+        "label": "ancient DNA",
+        "slug": "ancient-dna",
         "count": 1
       },
       {
@@ -11885,6 +12143,12 @@
         "id": "term:e386358c678861fbd8a8",
         "label": "archaeological evidence",
         "slug": "archaeological-evidence",
+        "count": 1
+      },
+      {
+        "id": "term:ed82e79b1df27dee2cf1",
+        "label": "archaeology",
+        "slug": "archaeology",
         "count": 1
       },
       {
@@ -12146,6 +12410,12 @@
         "count": 1
       },
       {
+        "id": "term:eacbb23e8219c4c6b785",
+        "label": "Burebista",
+        "slug": "burebista",
+        "count": 1
+      },
+      {
         "id": "term:0f5403614499dad290d5",
         "label": "Butlerian Jihad",
         "slug": "butlerian-jihad",
@@ -12179,6 +12449,12 @@
         "id": "term:f9ed2b54fd72ac165257",
         "label": "care",
         "slug": "care",
+        "count": 1
+      },
+      {
+        "id": "term:decd4644f17deb7572a7",
+        "label": "Carpathians",
+        "slug": "carpathians",
         "count": 1
       },
       {
@@ -12686,6 +12962,48 @@
         "count": 1
       },
       {
+        "id": "term:b2f1d680c7bf8394f0e1",
+        "label": "Dacian fortresses",
+        "slug": "dacian-fortresses",
+        "count": 1
+      },
+      {
+        "id": "term:de483b848c2e4a313c9d",
+        "label": "Dacian kingdom",
+        "slug": "dacian-kingdom",
+        "count": 1
+      },
+      {
+        "id": "term:040aee8b795086bacca2",
+        "label": "Dacian language",
+        "slug": "dacian-language",
+        "count": 1
+      },
+      {
+        "id": "term:f71f9207219e359d49af",
+        "label": "Dacian wars",
+        "slug": "dacian-wars",
+        "count": 1
+      },
+      {
+        "id": "term:7bb05ec8e3cf77e0183b",
+        "label": "Dacians",
+        "slug": "dacians",
+        "count": 1
+      },
+      {
+        "id": "term:5d31569af64188a9dcbf",
+        "label": "Daco-Roman continuity",
+        "slug": "daco-roman-continuity",
+        "count": 1
+      },
+      {
+        "id": "term:ebf340b317c044d970fc",
+        "label": "Danube",
+        "slug": "danube",
+        "count": 1
+      },
+      {
         "id": "term:944ac43cb914c15e4e86",
         "label": "data collection",
         "slug": "data-collection",
@@ -12707,6 +13025,12 @@
         "id": "term:52c8e02987ccb1b0eef9",
         "label": "death",
         "slug": "death",
+        "count": 1
+      },
+      {
+        "id": "term:af09372416db84398e54",
+        "label": "Decebalus",
+        "slug": "decebalus",
         "count": 1
       },
       {
@@ -13574,6 +13898,12 @@
         "count": 1
       },
       {
+        "id": "term:dff87b084339de1da772",
+        "label": "free Dacians",
+        "slug": "free-dacians",
+        "count": 1
+      },
+      {
         "id": "term:13b1f7ec5beaefc781e4",
         "label": "freedom",
         "slug": "freedom",
@@ -13697,6 +14027,12 @@
         "id": "term:678f4468c27ec509b77d",
         "label": "geopolitical interests",
         "slug": "geopolitical-interests",
+        "count": 1
+      },
+      {
+        "id": "term:570dabc195ff69203f4c",
+        "label": "Getae",
+        "slug": "getae",
         "count": 1
       },
       {
@@ -16046,6 +16382,18 @@
         "count": 1
       },
       {
+        "id": "term:0921728ef9688339a9a2",
+        "label": "Roman Dacia",
+        "slug": "roman-dacia",
+        "count": 1
+      },
+      {
+        "id": "term:b963df55886330870100",
+        "label": "Roman withdrawal",
+        "slug": "roman-withdrawal",
+        "count": 1
+      },
+      {
         "id": "term:a124a951dd278b066bb4",
         "label": "romantic love",
         "slug": "romantic-love",
@@ -16109,6 +16457,12 @@
         "id": "term:8e650a8e1566977eb5e2",
         "label": "Sardaukar",
         "slug": "sardaukar",
+        "count": 1
+      },
+      {
+        "id": "term:f3b30c9fc755b51ce8ff",
+        "label": "Sarmizegetusa Regia",
+        "slug": "sarmizegetusa-regia",
         "count": 1
       },
       {
@@ -16730,6 +17084,12 @@
         "count": 1
       },
       {
+        "id": "term:fcae800202e3f0ee373a",
+        "label": "Trajan",
+        "slug": "trajan",
+        "count": 1
+      },
+      {
         "id": "term:4261dad8d6ce714854cf",
         "label": "transaction rules",
         "slug": "transaction-rules",
@@ -17009,6 +17369,12 @@
         "id": "term:4b6c199932bb34b02845",
         "label": "world events",
         "slug": "world-events",
+        "count": 1
+      },
+      {
+        "id": "term:eda3c36818a2bc13f568",
+        "label": "written sources",
+        "slug": "written-sources",
         "count": 1
       },
       {
@@ -17488,6 +17854,12 @@
         "count": 1
       },
       {
+        "id": "term:15e253e68190acd4ee11",
+        "label": "ancestry",
+        "slug": "ancestry",
+        "count": 1
+      },
+      {
         "id": "term:7ebae5fd22d102376f0f",
         "label": "anciens arguments",
         "slug": "anciens-arguments",
@@ -17497,6 +17869,12 @@
         "id": "term:102b784a276a4fbfe655",
         "label": "anciens protocoles de sécurité",
         "slug": "anciens-protocoles-de-securite",
+        "count": 1
+      },
+      {
+        "id": "term:ede27406a40dad395484",
+        "label": "ancient DNA",
+        "slug": "ancient-dna",
         "count": 1
       },
       {
@@ -17539,6 +17917,12 @@
         "id": "term:0f914abcca1e46f372ab",
         "label": "arbre généalogique",
         "slug": "arbre-genealogique",
+        "count": 1
+      },
+      {
+        "id": "term:ed82e79b1df27dee2cf1",
+        "label": "archaeology",
+        "slug": "archaeology",
         "count": 1
       },
       {
@@ -17776,6 +18160,12 @@
         "count": 1
       },
       {
+        "id": "term:eacbb23e8219c4c6b785",
+        "label": "Burebista",
+        "slug": "burebista",
+        "count": 1
+      },
+      {
         "id": "term:76256d95b367da0c44b9",
         "label": "Cadre de narration",
         "slug": "cadre-de-narration",
@@ -17821,6 +18211,12 @@
         "id": "term:5922e17dcda871d0c3f3",
         "label": "Capitole prospère",
         "slug": "capitole-prospere",
+        "count": 1
+      },
+      {
+        "id": "term:decd4644f17deb7572a7",
+        "label": "Carpathians",
+        "slug": "carpathians",
         "count": 1
       },
       {
@@ -18436,9 +18832,51 @@
         "count": 1
       },
       {
+        "id": "term:b2f1d680c7bf8394f0e1",
+        "label": "Dacian fortresses",
+        "slug": "dacian-fortresses",
+        "count": 1
+      },
+      {
+        "id": "term:de483b848c2e4a313c9d",
+        "label": "Dacian kingdom",
+        "slug": "dacian-kingdom",
+        "count": 1
+      },
+      {
+        "id": "term:040aee8b795086bacca2",
+        "label": "Dacian language",
+        "slug": "dacian-language",
+        "count": 1
+      },
+      {
+        "id": "term:f71f9207219e359d49af",
+        "label": "Dacian wars",
+        "slug": "dacian-wars",
+        "count": 1
+      },
+      {
+        "id": "term:7bb05ec8e3cf77e0183b",
+        "label": "Dacians",
+        "slug": "dacians",
+        "count": 1
+      },
+      {
+        "id": "term:5d31569af64188a9dcbf",
+        "label": "Daco-Roman continuity",
+        "slug": "daco-roman-continuity",
+        "count": 1
+      },
+      {
         "id": "term:5402164eadfbcc4a2bd6",
         "label": "danger réel",
         "slug": "danger-reel",
+        "count": 1
+      },
+      {
+        "id": "term:ebf340b317c044d970fc",
+        "label": "Danube",
+        "slug": "danube",
         "count": 1
       },
       {
@@ -18463,6 +18901,12 @@
         "id": "term:f07a86f45f9bcd8a20ae",
         "label": "débris récupérés",
         "slug": "debris-recuperes",
+        "count": 1
+      },
+      {
+        "id": "term:af09372416db84398e54",
+        "label": "Decebalus",
+        "slug": "decebalus",
         "count": 1
       },
       {
@@ -19324,6 +19768,12 @@
         "count": 1
       },
       {
+        "id": "term:dff87b084339de1da772",
+        "label": "free Dacians",
+        "slug": "free-dacians",
+        "count": 1
+      },
+      {
         "id": "term:093a857ed4b489fe9f8d",
         "label": "Fremen",
         "slug": "fremen",
@@ -19417,6 +19867,12 @@
         "id": "term:e83c3d14344754e33a0f",
         "label": "gestes de sollicitude",
         "slug": "gestes-de-sollicitude",
+        "count": 1
+      },
+      {
+        "id": "term:570dabc195ff69203f4c",
+        "label": "Getae",
+        "slug": "getae",
         "count": 1
       },
       {
@@ -21802,6 +22258,12 @@
         "count": 1
       },
       {
+        "id": "term:0921728ef9688339a9a2",
+        "label": "Roman Dacia",
+        "slug": "roman-dacia",
+        "count": 1
+      },
+      {
         "id": "term:f7849bfc076be1b71d1e",
         "label": "roman évite de réduire",
         "slug": "roman-evite-de-reduire",
@@ -21811,6 +22273,12 @@
         "id": "term:3ff32190d753f656d7b9",
         "label": "roman gothique",
         "slug": "roman-gothique",
+        "count": 1
+      },
+      {
+        "id": "term:b963df55886330870100",
+        "label": "Roman withdrawal",
+        "slug": "roman-withdrawal",
         "count": 1
       },
       {
@@ -21859,6 +22327,12 @@
         "id": "term:8e650a8e1566977eb5e2",
         "label": "Sardaukar",
         "slug": "sardaukar",
+        "count": 1
+      },
+      {
+        "id": "term:f3b30c9fc755b51ce8ff",
+        "label": "Sarmizegetusa Regia",
+        "slug": "sarmizegetusa-regia",
         "count": 1
       },
       {
@@ -22420,6 +22894,12 @@
         "count": 1
       },
       {
+        "id": "term:fcae800202e3f0ee373a",
+        "label": "Trajan",
+        "slug": "trajan",
+        "count": 1
+      },
+      {
         "id": "term:79ce4bdb3b029e68f192",
         "label": "transaction décentralisée",
         "slug": "transaction-decentralisee",
@@ -22657,6 +23137,12 @@
         "id": "term:450d2799f4dff7592fb2",
         "label": "William Frankenstein",
         "slug": "william-frankenstein",
+        "count": 1
+      },
+      {
+        "id": "term:eda3c36818a2bc13f568",
+        "label": "written sources",
+        "slug": "written-sources",
         "count": 1
       },
       {
@@ -23064,6 +23550,18 @@
         "count": 1
       },
       {
+        "id": "term:15e253e68190acd4ee11",
+        "label": "ancestry",
+        "slug": "ancestry",
+        "count": 1
+      },
+      {
+        "id": "term:ede27406a40dad395484",
+        "label": "ancient DNA",
+        "slug": "ancient-dna",
+        "count": 1
+      },
+      {
         "id": "term:1798d5cb19256a9fea7c",
         "label": "andere Kinder",
         "slug": "andere-kinder",
@@ -23181,6 +23679,12 @@
         "id": "term:63bff13fdc934ac1f446",
         "label": "Arbeitskraft",
         "slug": "arbeitskraft",
+        "count": 1
+      },
+      {
+        "id": "term:ed82e79b1df27dee2cf1",
+        "label": "archaeology",
+        "slug": "archaeology",
         "count": 1
       },
       {
@@ -23628,6 +24132,12 @@
         "count": 1
       },
       {
+        "id": "term:eacbb23e8219c4c6b785",
+        "label": "Burebista",
+        "slug": "burebista",
+        "count": 1
+      },
+      {
         "id": "term:0f5403614499dad290d5",
         "label": "Butlerianischer Dschihad",
         "slug": "butlerianischer-dschihad",
@@ -23637,6 +24147,12 @@
         "id": "term:dc7ded4b8b2c6bcb118a",
         "label": "Cambridge Analytica",
         "slug": "cambridge-analytica",
+        "count": 1
+      },
+      {
+        "id": "term:decd4644f17deb7572a7",
+        "label": "Carpathians",
+        "slug": "carpathians",
         "count": 1
       },
       {
@@ -23673,6 +24189,48 @@
         "id": "term:e63a10342728822cd5c5",
         "label": "community focuses",
         "slug": "community-focuses",
+        "count": 1
+      },
+      {
+        "id": "term:b2f1d680c7bf8394f0e1",
+        "label": "Dacian fortresses",
+        "slug": "dacian-fortresses",
+        "count": 1
+      },
+      {
+        "id": "term:de483b848c2e4a313c9d",
+        "label": "Dacian kingdom",
+        "slug": "dacian-kingdom",
+        "count": 1
+      },
+      {
+        "id": "term:040aee8b795086bacca2",
+        "label": "Dacian language",
+        "slug": "dacian-language",
+        "count": 1
+      },
+      {
+        "id": "term:f71f9207219e359d49af",
+        "label": "Dacian wars",
+        "slug": "dacian-wars",
+        "count": 1
+      },
+      {
+        "id": "term:7bb05ec8e3cf77e0183b",
+        "label": "Dacians",
+        "slug": "dacians",
+        "count": 1
+      },
+      {
+        "id": "term:5d31569af64188a9dcbf",
+        "label": "Daco-Roman continuity",
+        "slug": "daco-roman-continuity",
+        "count": 1
+      },
+      {
+        "id": "term:ebf340b317c044d970fc",
+        "label": "Danube",
+        "slug": "danube",
         "count": 1
       },
       {
@@ -23715,6 +24273,12 @@
         "id": "term:5b3d366b68fd786bb2dd",
         "label": "Dauerhaftes Bedauern",
         "slug": "dauerhaftes-bedauern",
+        "count": 1
+      },
+      {
+        "id": "term:af09372416db84398e54",
+        "label": "Decebalus",
+        "slug": "decebalus",
         "count": 1
       },
       {
@@ -24324,6 +24888,12 @@
         "count": 1
       },
       {
+        "id": "term:dff87b084339de1da772",
+        "label": "free Dacians",
+        "slug": "free-dacians",
+        "count": 1
+      },
+      {
         "id": "term:13b1f7ec5beaefc781e4",
         "label": "Freiheit",
         "slug": "freiheit",
@@ -24753,6 +25323,12 @@
         "id": "term:481fd2f717f5b37ba0cc",
         "label": "Gesundheitstests",
         "slug": "gesundheitstests",
+        "count": 1
+      },
+      {
+        "id": "term:570dabc195ff69203f4c",
+        "label": "Getae",
+        "slug": "getae",
         "count": 1
       },
       {
@@ -26892,6 +27468,18 @@
         "count": 1
       },
       {
+        "id": "term:0921728ef9688339a9a2",
+        "label": "Roman Dacia",
+        "slug": "roman-dacia",
+        "count": 1
+      },
+      {
+        "id": "term:b963df55886330870100",
+        "label": "Roman withdrawal",
+        "slug": "roman-withdrawal",
+        "count": 1
+      },
+      {
         "id": "term:a124a951dd278b066bb4",
         "label": "romantische Liebe",
         "slug": "romantische-liebe",
@@ -26943,6 +27531,12 @@
         "id": "term:8e650a8e1566977eb5e2",
         "label": "Sardaukar",
         "slug": "sardaukar",
+        "count": 1
+      },
+      {
+        "id": "term:f3b30c9fc755b51ce8ff",
+        "label": "Sarmizegetusa Regia",
+        "slug": "sarmizegetusa-regia",
         "count": 1
       },
       {
@@ -27387,6 +27981,12 @@
         "id": "term:ec2234439ca1edc72a01",
         "label": "Traditionen",
         "slug": "traditionen",
+        "count": 1
+      },
+      {
+        "id": "term:fcae800202e3f0ee373a",
+        "label": "Trajan",
+        "slug": "trajan",
         "count": 1
       },
       {
@@ -28152,6 +28752,12 @@
         "count": 1
       },
       {
+        "id": "term:eda3c36818a2bc13f568",
+        "label": "written sources",
+        "slug": "written-sources",
+        "count": 1
+      },
+      {
         "id": "term:8e302b473b0bb89d0e97",
         "label": "wunderbare Ereignisse",
         "slug": "wunderbare-ereignisse",
@@ -28802,6 +29408,18 @@
         "count": 1
       },
       {
+        "id": "term:15e253e68190acd4ee11",
+        "label": "ancestry",
+        "slug": "ancestry",
+        "count": 1
+      },
+      {
+        "id": "term:ede27406a40dad395484",
+        "label": "ancient DNA",
+        "slug": "ancient-dna",
+        "count": 1
+      },
+      {
         "id": "term:e231f0c4832073d63d35",
         "label": "antiguas sociedades",
         "slug": "antiguas-sociedades",
@@ -28859,6 +29477,12 @@
         "id": "term:0f914abcca1e46f372ab",
         "label": "Árbol genealógico",
         "slug": "arbol-genealogico",
+        "count": 1
+      },
+      {
+        "id": "term:ed82e79b1df27dee2cf1",
+        "label": "archaeology",
+        "slug": "archaeology",
         "count": 1
       },
       {
@@ -29048,6 +29672,12 @@
         "count": 1
       },
       {
+        "id": "term:eacbb23e8219c4c6b785",
+        "label": "Burebista",
+        "slug": "burebista",
+        "count": 1
+      },
+      {
         "id": "term:bfa93c26956562e1b84c",
         "label": "buscar vínculos",
         "slug": "buscar-vinculos",
@@ -29111,6 +29741,12 @@
         "id": "term:5922e17dcda871d0c3f3",
         "label": "Capitolio próspero",
         "slug": "capitolio-prospero",
+        "count": 1
+      },
+      {
+        "id": "term:decd4644f17deb7572a7",
+        "label": "Carpathians",
+        "slug": "carpathians",
         "count": 1
       },
       {
@@ -29792,6 +30428,48 @@
         "count": 1
       },
       {
+        "id": "term:b2f1d680c7bf8394f0e1",
+        "label": "Dacian fortresses",
+        "slug": "dacian-fortresses",
+        "count": 1
+      },
+      {
+        "id": "term:de483b848c2e4a313c9d",
+        "label": "Dacian kingdom",
+        "slug": "dacian-kingdom",
+        "count": 1
+      },
+      {
+        "id": "term:040aee8b795086bacca2",
+        "label": "Dacian language",
+        "slug": "dacian-language",
+        "count": 1
+      },
+      {
+        "id": "term:f71f9207219e359d49af",
+        "label": "Dacian wars",
+        "slug": "dacian-wars",
+        "count": 1
+      },
+      {
+        "id": "term:7bb05ec8e3cf77e0183b",
+        "label": "Dacians",
+        "slug": "dacians",
+        "count": 1
+      },
+      {
+        "id": "term:5d31569af64188a9dcbf",
+        "label": "Daco-Roman continuity",
+        "slug": "daco-roman-continuity",
+        "count": 1
+      },
+      {
+        "id": "term:ebf340b317c044d970fc",
+        "label": "Danube",
+        "slug": "danube",
+        "count": 1
+      },
+      {
         "id": "term:f93f99ecc1eef2588dd2",
         "label": "darles vida",
         "slug": "darles-vida",
@@ -29837,6 +30515,12 @@
         "id": "term:ee41e9e0af209ac6d278",
         "label": "debilitar el ahorro",
         "slug": "debilitar-el-ahorro",
+        "count": 1
+      },
+      {
+        "id": "term:af09372416db84398e54",
+        "label": "Decebalus",
+        "slug": "decebalus",
         "count": 1
       },
       {
@@ -30710,6 +31394,12 @@
         "count": 1
       },
       {
+        "id": "term:dff87b084339de1da772",
+        "label": "free Dacians",
+        "slug": "free-dacians",
+        "count": 1
+      },
+      {
         "id": "term:093a857ed4b489fe9f8d",
         "label": "Fremen",
         "slug": "fremen",
@@ -30803,6 +31493,12 @@
         "id": "term:e83c3d14344754e33a0f",
         "label": "gestos de cuidado",
         "slug": "gestos-de-cuidado",
+        "count": 1
+      },
+      {
+        "id": "term:570dabc195ff69203f4c",
+        "label": "Getae",
+        "slug": "getae",
         "count": 1
       },
       {
@@ -33212,6 +33908,18 @@
         "count": 1
       },
       {
+        "id": "term:0921728ef9688339a9a2",
+        "label": "Roman Dacia",
+        "slug": "roman-dacia",
+        "count": 1
+      },
+      {
+        "id": "term:b963df55886330870100",
+        "label": "Roman withdrawal",
+        "slug": "roman-withdrawal",
+        "count": 1
+      },
+      {
         "id": "term:56046694c3d53309620f",
         "label": "Roswell",
         "slug": "roswell",
@@ -33257,6 +33965,12 @@
         "id": "term:8e650a8e1566977eb5e2",
         "label": "Sardaukar",
         "slug": "sardaukar",
+        "count": 1
+      },
+      {
+        "id": "term:f3b30c9fc755b51ce8ff",
+        "label": "Sarmizegetusa Regia",
+        "slug": "sarmizegetusa-regia",
         "count": 1
       },
       {
@@ -33698,6 +34412,12 @@
         "count": 1
       },
       {
+        "id": "term:fcae800202e3f0ee373a",
+        "label": "Trajan",
+        "slug": "trajan",
+        "count": 1
+      },
+      {
         "id": "term:a66c849e8b6bad238cef",
         "label": "transacciones digitales",
         "slug": "transacciones-digitales",
@@ -33911,6 +34631,12 @@
         "id": "term:450d2799f4dff7592fb2",
         "label": "William Frankenstein",
         "slug": "william-frankenstein",
+        "count": 1
+      },
+      {
+        "id": "term:eda3c36818a2bc13f568",
+        "label": "written sources",
+        "slug": "written-sources",
         "count": 1
       },
       {
@@ -34480,6 +35206,18 @@
         "count": 1
       },
       {
+        "id": "term:15e253e68190acd4ee11",
+        "label": "ancestry",
+        "slug": "ancestry",
+        "count": 1
+      },
+      {
+        "id": "term:ede27406a40dad395484",
+        "label": "ancient DNA",
+        "slug": "ancient-dna",
+        "count": 1
+      },
+      {
         "id": "term:010f7034642609e20b31",
         "label": "antigos astronautas",
         "slug": "antigos-astronautas",
@@ -34525,6 +35263,12 @@
         "id": "term:dcaa8e5ecb8d70ad4ede",
         "label": "aprendizado de máquina",
         "slug": "aprendizado-de-maquina",
+        "count": 1
+      },
+      {
+        "id": "term:ed82e79b1df27dee2cf1",
+        "label": "archaeology",
+        "slug": "archaeology",
         "count": 1
       },
       {
@@ -34786,6 +35530,12 @@
         "count": 1
       },
       {
+        "id": "term:eacbb23e8219c4c6b785",
+        "label": "Burebista",
+        "slug": "burebista",
+        "count": 1
+      },
+      {
         "id": "term:bfa93c26956562e1b84c",
         "label": "buscar vínculos",
         "slug": "buscar-vinculos",
@@ -34825,6 +35575,12 @@
         "id": "term:5922e17dcda871d0c3f3",
         "label": "Capital próspera",
         "slug": "capital-prospera",
+        "count": 1
+      },
+      {
+        "id": "term:decd4644f17deb7572a7",
+        "label": "Carpathians",
+        "slug": "carpathians",
         "count": 1
       },
       {
@@ -35500,9 +36256,51 @@
         "count": 1
       },
       {
+        "id": "term:b2f1d680c7bf8394f0e1",
+        "label": "Dacian fortresses",
+        "slug": "dacian-fortresses",
+        "count": 1
+      },
+      {
+        "id": "term:de483b848c2e4a313c9d",
+        "label": "Dacian kingdom",
+        "slug": "dacian-kingdom",
+        "count": 1
+      },
+      {
+        "id": "term:040aee8b795086bacca2",
+        "label": "Dacian language",
+        "slug": "dacian-language",
+        "count": 1
+      },
+      {
+        "id": "term:f71f9207219e359d49af",
+        "label": "Dacian wars",
+        "slug": "dacian-wars",
+        "count": 1
+      },
+      {
+        "id": "term:7bb05ec8e3cf77e0183b",
+        "label": "Dacians",
+        "slug": "dacians",
+        "count": 1
+      },
+      {
+        "id": "term:5d31569af64188a9dcbf",
+        "label": "Daco-Roman continuity",
+        "slug": "daco-roman-continuity",
+        "count": 1
+      },
+      {
         "id": "term:d85533ba786e27667c68",
         "label": "Dados pessoais",
         "slug": "dados-pessoais",
+        "count": 1
+      },
+      {
+        "id": "term:ebf340b317c044d970fc",
+        "label": "Danube",
+        "slug": "danube",
         "count": 1
       },
       {
@@ -35521,6 +36319,12 @@
         "id": "term:edccb2b70d85a7cd3627",
         "label": "debates filosóficos",
         "slug": "debates-filosoficos",
+        "count": 1
+      },
+      {
+        "id": "term:af09372416db84398e54",
+        "label": "Decebalus",
+        "slug": "decebalus",
         "count": 1
       },
       {
@@ -36460,6 +37264,12 @@
         "count": 1
       },
       {
+        "id": "term:dff87b084339de1da772",
+        "label": "free Dacians",
+        "slug": "free-dacians",
+        "count": 1
+      },
+      {
         "id": "term:093a857ed4b489fe9f8d",
         "label": "Fremen",
         "slug": "fremen",
@@ -36523,6 +37333,12 @@
         "id": "term:cc925833c9a76198f6cd",
         "label": "gerações herdam nomes",
         "slug": "geracoes-herdam-nomes",
+        "count": 1
+      },
+      {
+        "id": "term:570dabc195ff69203f4c",
+        "label": "Getae",
+        "slug": "getae",
         "count": 1
       },
       {
@@ -38758,6 +39574,18 @@
         "count": 1
       },
       {
+        "id": "term:0921728ef9688339a9a2",
+        "label": "Roman Dacia",
+        "slug": "roman-dacia",
+        "count": 1
+      },
+      {
+        "id": "term:b963df55886330870100",
+        "label": "Roman withdrawal",
+        "slug": "roman-withdrawal",
+        "count": 1
+      },
+      {
         "id": "term:f7849bfc076be1b71d1e",
         "label": "romance evita reduzir",
         "slug": "romance-evita-reduzir",
@@ -38809,6 +39637,12 @@
         "id": "term:8e650a8e1566977eb5e2",
         "label": "Sardaukar",
         "slug": "sardaukar",
+        "count": 1
+      },
+      {
+        "id": "term:f3b30c9fc755b51ce8ff",
+        "label": "Sarmizegetusa Regia",
+        "slug": "sarmizegetusa-regia",
         "count": 1
       },
       {
@@ -39298,6 +40132,12 @@
         "count": 1
       },
       {
+        "id": "term:fcae800202e3f0ee373a",
+        "label": "Trajan",
+        "slug": "trajan",
+        "count": 1
+      },
+      {
         "id": "term:df7e1a573cabfef8ec76",
         "label": "trajes destiladores",
         "slug": "trajes-destiladores",
@@ -39559,6 +40399,12 @@
         "id": "term:450d2799f4dff7592fb2",
         "label": "William Frankenstein",
         "slug": "william-frankenstein",
+        "count": 1
+      },
+      {
+        "id": "term:eda3c36818a2bc13f568",
+        "label": "written sources",
+        "slug": "written-sources",
         "count": 1
       }
     ],
@@ -40020,6 +40866,18 @@
         "count": 1
       },
       {
+        "id": "term:15e253e68190acd4ee11",
+        "label": "ancestry",
+        "slug": "ancestry",
+        "count": 1
+      },
+      {
+        "id": "term:ede27406a40dad395484",
+        "label": "ancient DNA",
+        "slug": "ancient-dna",
+        "count": 1
+      },
+      {
         "id": "term:0788f5b85cdba9308bfb",
         "label": "antisemitism",
         "slug": "antisemitism",
@@ -40041,6 +40899,12 @@
         "id": "term:dcaa8e5ecb8d70ad4ede",
         "label": "apprendimento automatico",
         "slug": "apprendimento-automatico",
+        "count": 1
+      },
+      {
+        "id": "term:ed82e79b1df27dee2cf1",
+        "label": "archaeology",
+        "slug": "archaeology",
         "count": 1
       },
       {
@@ -40296,6 +41160,12 @@
         "count": 1
       },
       {
+        "id": "term:eacbb23e8219c4c6b785",
+        "label": "Burebista",
+        "slug": "burebista",
+        "count": 1
+      },
+      {
         "id": "term:f5eb76fc5b800378646b",
         "label": "cambia le differenze ordinarie",
         "slug": "cambia-le-differenze-ordinarie",
@@ -40347,6 +41217,12 @@
         "id": "term:5922e17dcda871d0c3f3",
         "label": "Capitol City prospera",
         "slug": "capitol-city-prospera",
+        "count": 1
+      },
+      {
+        "id": "term:decd4644f17deb7572a7",
+        "label": "Carpathians",
+        "slug": "carpathians",
         "count": 1
       },
       {
@@ -40902,6 +41778,48 @@
         "count": 1
       },
       {
+        "id": "term:b2f1d680c7bf8394f0e1",
+        "label": "Dacian fortresses",
+        "slug": "dacian-fortresses",
+        "count": 1
+      },
+      {
+        "id": "term:de483b848c2e4a313c9d",
+        "label": "Dacian kingdom",
+        "slug": "dacian-kingdom",
+        "count": 1
+      },
+      {
+        "id": "term:040aee8b795086bacca2",
+        "label": "Dacian language",
+        "slug": "dacian-language",
+        "count": 1
+      },
+      {
+        "id": "term:f71f9207219e359d49af",
+        "label": "Dacian wars",
+        "slug": "dacian-wars",
+        "count": 1
+      },
+      {
+        "id": "term:7bb05ec8e3cf77e0183b",
+        "label": "Dacians",
+        "slug": "dacians",
+        "count": 1
+      },
+      {
+        "id": "term:5d31569af64188a9dcbf",
+        "label": "Daco-Roman continuity",
+        "slug": "daco-roman-continuity",
+        "count": 1
+      },
+      {
+        "id": "term:ebf340b317c044d970fc",
+        "label": "Danube",
+        "slug": "danube",
+        "count": 1
+      },
+      {
         "id": "term:f93f99ecc1eef2588dd2",
         "label": "dar loro vita",
         "slug": "dar-loro-vita",
@@ -40917,6 +41835,12 @@
         "id": "term:6d6496c0665e17233145",
         "label": "Debolezza del denaro centralizzato",
         "slug": "debolezza-del-denaro-centralizzato",
+        "count": 1
+      },
+      {
+        "id": "term:af09372416db84398e54",
+        "label": "Decebalus",
+        "slug": "decebalus",
         "count": 1
       },
       {
@@ -41646,6 +42570,12 @@
         "count": 1
       },
       {
+        "id": "term:dff87b084339de1da772",
+        "label": "free Dacians",
+        "slug": "free-dacians",
+        "count": 1
+      },
+      {
         "id": "term:093a857ed4b489fe9f8d",
         "label": "Fremen",
         "slug": "fremen",
@@ -41715,6 +42645,12 @@
         "id": "term:2f24579ba98d6025d8e3",
         "label": "gesto privato di protezione",
         "slug": "gesto-privato-di-protezione",
+        "count": 1
+      },
+      {
+        "id": "term:570dabc195ff69203f4c",
+        "label": "Getae",
+        "slug": "getae",
         "count": 1
       },
       {
@@ -44046,6 +44982,18 @@
         "count": 1
       },
       {
+        "id": "term:0921728ef9688339a9a2",
+        "label": "Roman Dacia",
+        "slug": "roman-dacia",
+        "count": 1
+      },
+      {
+        "id": "term:b963df55886330870100",
+        "label": "Roman withdrawal",
+        "slug": "roman-withdrawal",
+        "count": 1
+      },
+      {
         "id": "term:f7849bfc076be1b71d1e",
         "label": "romanzo evita di ridurre",
         "slug": "romanzo-evita-di-ridurre",
@@ -44121,6 +45069,12 @@
         "id": "term:8e650a8e1566977eb5e2",
         "label": "Sardaukar",
         "slug": "sardaukar",
+        "count": 1
+      },
+      {
+        "id": "term:f3b30c9fc755b51ce8ff",
+        "label": "Sarmizegetusa Regia",
+        "slug": "sarmizegetusa-regia",
         "count": 1
       },
       {
@@ -44952,6 +45906,12 @@
         "count": 1
       },
       {
+        "id": "term:fcae800202e3f0ee373a",
+        "label": "Trajan",
+        "slug": "trajan",
+        "count": 1
+      },
+      {
         "id": "term:79ce4bdb3b029e68f192",
         "label": "transazione decentrata",
         "slug": "transazione-decentrata",
@@ -45183,6 +46143,12 @@
         "id": "term:450d2799f4dff7592fb2",
         "label": "William Frankenstein",
         "slug": "william-frankenstein",
+        "count": 1
+      },
+      {
+        "id": "term:eda3c36818a2bc13f568",
+        "label": "written sources",
+        "slug": "written-sources",
         "count": 1
       },
       {
@@ -45710,6 +46676,18 @@
         "count": 1
       },
       {
+        "id": "term:15e253e68190acd4ee11",
+        "label": "ancestry",
+        "slug": "ancestry",
+        "count": 1
+      },
+      {
+        "id": "term:ede27406a40dad395484",
+        "label": "ancient DNA",
+        "slug": "ancient-dna",
+        "count": 1
+      },
+      {
         "id": "term:51d740a9b2ab11532ddc",
         "label": "ansamblu diferențiat",
         "slug": "ansamblu-diferentiat",
@@ -45749,6 +46727,12 @@
         "id": "term:0f914abcca1e46f372ab",
         "label": "arborele genealogic",
         "slug": "arborele-genealogic",
+        "count": 1
+      },
+      {
+        "id": "term:ed82e79b1df27dee2cf1",
+        "label": "archaeology",
+        "slug": "archaeology",
         "count": 1
       },
       {
@@ -45992,6 +46976,12 @@
         "count": 1
       },
       {
+        "id": "term:eacbb23e8219c4c6b785",
+        "label": "Burebista",
+        "slug": "burebista",
+        "count": 1
+      },
+      {
         "id": "term:76256d95b367da0c44b9",
         "label": "cadru narativ",
         "slug": "cadru-narativ",
@@ -46055,6 +47045,12 @@
         "id": "term:5922e17dcda871d0c3f3",
         "label": "Capitoliul bogat",
         "slug": "capitoliul-bogat",
+        "count": 1
+      },
+      {
+        "id": "term:decd4644f17deb7572a7",
+        "label": "Carpathians",
+        "slug": "carpathians",
         "count": 1
       },
       {
@@ -46670,6 +47666,48 @@
         "count": 1
       },
       {
+        "id": "term:b2f1d680c7bf8394f0e1",
+        "label": "Dacian fortresses",
+        "slug": "dacian-fortresses",
+        "count": 1
+      },
+      {
+        "id": "term:de483b848c2e4a313c9d",
+        "label": "Dacian kingdom",
+        "slug": "dacian-kingdom",
+        "count": 1
+      },
+      {
+        "id": "term:040aee8b795086bacca2",
+        "label": "Dacian language",
+        "slug": "dacian-language",
+        "count": 1
+      },
+      {
+        "id": "term:f71f9207219e359d49af",
+        "label": "Dacian wars",
+        "slug": "dacian-wars",
+        "count": 1
+      },
+      {
+        "id": "term:7bb05ec8e3cf77e0183b",
+        "label": "Dacians",
+        "slug": "dacians",
+        "count": 1
+      },
+      {
+        "id": "term:5d31569af64188a9dcbf",
+        "label": "Daco-Roman continuity",
+        "slug": "daco-roman-continuity",
+        "count": 1
+      },
+      {
+        "id": "term:ebf340b317c044d970fc",
+        "label": "Danube",
+        "slug": "danube",
+        "count": 1
+      },
+      {
         "id": "term:d85533ba786e27667c68",
         "label": "date cu caracter personal",
         "slug": "date-cu-caracter-personal",
@@ -46679,6 +47717,12 @@
         "id": "term:9bb09914b117aaa92837",
         "label": "datorie",
         "slug": "datorie",
+        "count": 1
+      },
+      {
+        "id": "term:af09372416db84398e54",
+        "label": "Decebalus",
+        "slug": "decebalus",
         "count": 1
       },
       {
@@ -47402,6 +48446,12 @@
         "count": 1
       },
       {
+        "id": "term:dff87b084339de1da772",
+        "label": "free Dacians",
+        "slug": "free-dacians",
+        "count": 1
+      },
+      {
         "id": "term:093a857ed4b489fe9f8d",
         "label": "Fremen",
         "slug": "fremen",
@@ -47501,6 +48551,12 @@
         "id": "term:e83c3d14344754e33a0f",
         "label": "gesturi de grijă",
         "slug": "gesturi-de-grija",
+        "count": 1
+      },
+      {
+        "id": "term:570dabc195ff69203f4c",
+        "label": "Getae",
+        "slug": "getae",
         "count": 1
       },
       {
@@ -49760,6 +50816,12 @@
         "count": 1
       },
       {
+        "id": "term:0921728ef9688339a9a2",
+        "label": "Roman Dacia",
+        "slug": "roman-dacia",
+        "count": 1
+      },
+      {
         "id": "term:f7849bfc076be1b71d1e",
         "label": "roman evită reducerea",
         "slug": "roman-evita-reducerea",
@@ -49769,6 +50831,12 @@
         "id": "term:3ff32190d753f656d7b9",
         "label": "roman gotic",
         "slug": "roman-gotic",
+        "count": 1
+      },
+      {
+        "id": "term:b963df55886330870100",
+        "label": "Roman withdrawal",
+        "slug": "roman-withdrawal",
         "count": 1
       },
       {
@@ -49817,6 +50885,12 @@
         "id": "term:8e650a8e1566977eb5e2",
         "label": "Sardaukar",
         "slug": "sardaukar",
+        "count": 1
+      },
+      {
+        "id": "term:f3b30c9fc755b51ce8ff",
+        "label": "Sarmizegetusa Regia",
+        "slug": "sarmizegetusa-regia",
         "count": 1
       },
       {
@@ -50540,6 +51614,12 @@
         "count": 1
       },
       {
+        "id": "term:fcae800202e3f0ee373a",
+        "label": "Trajan",
+        "slug": "trajan",
+        "count": 1
+      },
+      {
         "id": "term:f45b59736bd986bf72c5",
         "label": "transparență",
         "slug": "transparenta",
@@ -50813,6 +51893,12 @@
         "id": "term:450d2799f4dff7592fb2",
         "label": "William Frankenstein",
         "slug": "william-frankenstein",
+        "count": 1
+      },
+      {
+        "id": "term:eda3c36818a2bc13f568",
+        "label": "written sources",
+        "slug": "written-sources",
         "count": 1
       },
       {
@@ -51154,6 +52240,18 @@
         "count": 1
       },
       {
+        "id": "term:15e253e68190acd4ee11",
+        "label": "ancestry",
+        "slug": "ancestry",
+        "count": 1
+      },
+      {
+        "id": "term:ede27406a40dad395484",
+        "label": "ancient DNA",
+        "slug": "ancient-dna",
+        "count": 1
+      },
+      {
         "id": "term:0788f5b85cdba9308bfb",
         "label": "antisemitism",
         "slug": "antisemitism",
@@ -51169,6 +52267,12 @@
         "id": "term:190a68311ee4c5143762",
         "label": "apeiron",
         "slug": "apeiron",
+        "count": 1
+      },
+      {
+        "id": "term:ed82e79b1df27dee2cf1",
+        "label": "archaeology",
+        "slug": "archaeology",
         "count": 1
       },
       {
@@ -51376,6 +52480,12 @@
         "count": 1
       },
       {
+        "id": "term:eacbb23e8219c4c6b785",
+        "label": "Burebista",
+        "slug": "burebista",
+        "count": 1
+      },
+      {
         "id": "term:f735a3ebdf3311869015",
         "label": "burzliwa miłość",
         "slug": "burzliwa-mi-osc",
@@ -51391,6 +52501,12 @@
         "id": "term:dc7ded4b8b2c6bcb118a",
         "label": "Cambridge Analytica",
         "slug": "cambridge-analytica",
+        "count": 1
+      },
+      {
+        "id": "term:decd4644f17deb7572a7",
+        "label": "Carpathians",
+        "slug": "carpathians",
         "count": 1
       },
       {
@@ -51562,6 +52678,42 @@
         "count": 1
       },
       {
+        "id": "term:b2f1d680c7bf8394f0e1",
+        "label": "Dacian fortresses",
+        "slug": "dacian-fortresses",
+        "count": 1
+      },
+      {
+        "id": "term:de483b848c2e4a313c9d",
+        "label": "Dacian kingdom",
+        "slug": "dacian-kingdom",
+        "count": 1
+      },
+      {
+        "id": "term:040aee8b795086bacca2",
+        "label": "Dacian language",
+        "slug": "dacian-language",
+        "count": 1
+      },
+      {
+        "id": "term:f71f9207219e359d49af",
+        "label": "Dacian wars",
+        "slug": "dacian-wars",
+        "count": 1
+      },
+      {
+        "id": "term:7bb05ec8e3cf77e0183b",
+        "label": "Dacians",
+        "slug": "dacians",
+        "count": 1
+      },
+      {
+        "id": "term:5d31569af64188a9dcbf",
+        "label": "Daco-Roman continuity",
+        "slug": "daco-roman-continuity",
+        "count": 1
+      },
+      {
         "id": "term:978327c2a26f4e21578a",
         "label": "daleko idące skutki",
         "slug": "daleko-idace-skutki",
@@ -51574,9 +52726,21 @@
         "count": 1
       },
       {
+        "id": "term:ebf340b317c044d970fc",
+        "label": "Danube",
+        "slug": "danube",
+        "count": 1
+      },
+      {
         "id": "term:edccb2b70d85a7cd3627",
         "label": "Debaty filozoficzne",
         "slug": "debaty-filozoficzne",
+        "count": 1
+      },
+      {
+        "id": "term:af09372416db84398e54",
+        "label": "Decebalus",
+        "slug": "decebalus",
         "count": 1
       },
       {
@@ -52036,6 +53200,12 @@
         "count": 1
       },
       {
+        "id": "term:dff87b084339de1da772",
+        "label": "free Dacians",
+        "slug": "free-dacians",
+        "count": 1
+      },
+      {
         "id": "term:093a857ed4b489fe9f8d",
         "label": "Fremen",
         "slug": "fremen",
@@ -52087,6 +53257,12 @@
         "id": "term:678f4468c27ec509b77d",
         "label": "geopolitical interests",
         "slug": "geopolitical-interests",
+        "count": 1
+      },
+      {
+        "id": "term:570dabc195ff69203f4c",
+        "label": "Getae",
+        "slug": "getae",
         "count": 1
       },
       {
@@ -54550,6 +55726,18 @@
         "count": 1
       },
       {
+        "id": "term:0921728ef9688339a9a2",
+        "label": "Roman Dacia",
+        "slug": "roman-dacia",
+        "count": 1
+      },
+      {
+        "id": "term:b963df55886330870100",
+        "label": "Roman withdrawal",
+        "slug": "roman-withdrawal",
+        "count": 1
+      },
+      {
         "id": "term:a124a951dd278b066bb4",
         "label": "Romantyczna miłość",
         "slug": "romantyczna-mi-osc",
@@ -54691,6 +55879,12 @@
         "id": "term:8e650a8e1566977eb5e2",
         "label": "Sardaukar",
         "slug": "sardaukar",
+        "count": 1
+      },
+      {
+        "id": "term:f3b30c9fc755b51ce8ff",
+        "label": "Sarmizegetusa Regia",
+        "slug": "sarmizegetusa-regia",
         "count": 1
       },
       {
@@ -55348,6 +56542,12 @@
         "count": 1
       },
       {
+        "id": "term:fcae800202e3f0ee373a",
+        "label": "Trajan",
+        "slug": "trajan",
+        "count": 1
+      },
+      {
         "id": "term:a66c849e8b6bad238cef",
         "label": "transakcje cyfrowe",
         "slug": "transakcje-cyfrowe",
@@ -55879,6 +57079,12 @@
         "id": "term:bf32bc3ad1495f86a2ce",
         "label": "wpływy imperialne",
         "slug": "wp-ywy-imperialne",
+        "count": 1
+      },
+      {
+        "id": "term:eda3c36818a2bc13f568",
+        "label": "written sources",
+        "slug": "written-sources",
         "count": 1
       },
       {

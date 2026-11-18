@@ -1,0 +1,7 @@
+html { box-sizing: border-box; }
+*, *::before, *::after { box-sizing: inherit; }
+body { margin: 0; max-width: 100%; }
+main, section, p, h1, h2, h3, li, a, caption, td, th { max-width: 100%; overflow-wrap: anywhere; }
+table { width: 100%; max-width: 100%; table-layout: fixed; border-collapse: collapse; }
+th, td { overflow-wrap: anywhere; word-break: break-word; white-space: normal; }
+img, svg { max-width: 100%; height: auto; }
