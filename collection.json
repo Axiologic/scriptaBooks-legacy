@@ -12137,8 +12137,8 @@
           "book": "books/the/secrets/we/never/told/bk-255392c1a2b043a0a03e4d77c95e7115/en/book.html",
           "cover": "books/the/secrets/we/never/told/bk-255392c1a2b043a0a03e4d77c95e7115/en/cover.png",
           "thumbnail": "books/the/secrets/we/never/told/bk-255392c1a2b043a0a03e4d77c95e7115/en/cover.png",
-          "fullContent": "books/the/secrets/we/never/told/bk-255392c1a2b043a0a03e4d77c95e7115/en/book.html",
-          "shortContent": "books/the/secrets/we/never/told/bk-255392c1a2b043a0a03e4d77c95e7115/en/short_content.html"
+          "fullContent": "books/the/secrets/we/never/told/bk-255392c1a2b043a0a03e4d77c95e7115/en/full_content.html",
+          "shortContent": "books/the/secrets/we/never/told/bk-255392c1a2b043a0a03e4d77c95e7115/en/comprehensive-summary.html"
         }
       },
       "availableLanguages": [
@@ -12151,7 +12151,19 @@
         "The_Secrets_We_Never_Told"
       ],
       "publicationLabel": {},
-      "contributions": []
+      "contributions": [],
+      "aboutBook": {
+        "en": [
+          "In The Secrets We Never Told, Clara Ellison comes home to a life that still sounds intact, and to a message she is not ready to read aloud.",
+          "Clara has spent twelve years in Greyhaven. Soup stays on low, a child practices the same four bars, and the evening is warm enough to look almost quiet. Then an unstamped letter waits among ordinary papers. She hides the envelope. At the sink, a small untrue answer fits the life she has kept with her husband and with Sophie. That life is real, which is why a secret makes it fragile.",
+          "She stops outside a flower shop, sees Lena at work, and does not go in, because a question once asked cannot be taken back. Her husband feels that something has entered the house, the way a person feels a window left open. Neither begins the conversation.",
+          "What has entered the house, and how long can an ordinary evening hold once she will not ask aloud? She wants to know what she is walking toward before she asks to be told. If speaking cannot undo what has happened, what does waiting cost the living? The book also asks what remains when comfort is refused, what people tell and to whom, and what work remains when no feeling of being finished is on offer.",
+          "It enters a husband's private evening and the argument he can still make to himself. Clara can say that not knowing is also information. She treats memory as a room people rearrange, so a label can be accurate and still leave out the smell of the rope. She writes slowly and does not call the result evidence. A woman she does not know asks for a conversation that may later become more public. The demand is for the order in which things happened, not the order anyone can bear.",
+          "It is for readers who want suspense that begins in a kitchen, with routines intact and trust already under strain. It suits a household arranged to stay still, a marriage that knows a conversation is waiting, and a closed shop where work cannot cover what has been avoided. It pauses for a child's morning, stays with the person a town has tried to soothe, and will not turn a cold meeting into comfort.",
+          "On a harbor walk a child says that being tired is not the same as being done. Some evenings hold talk about school. Some evenings the kitchen is needed alone. Neither fact is offered as a conclusion.",
+          "The envelope is hidden. The question has not been asked aloud. The house still sounds like the life she built, and nothing ahead has agreed to leave that sound undisturbed."
+        ]
+      }
     }
   ],
   "keywords": {
