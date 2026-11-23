@@ -1025,7 +1025,7 @@
       "cover": "en/cover.webp",
       "sourceCover": "en/cover.png",
       "thumbnail": "en/thumbnail.webp",
-      "fullContent": "en/full_content.html",
+      "fullContent": "edition-files/edition-2/en/full_content.html",
       "shortContent": "en/short_content.html",
       "pdf": "en/book.pdf"
     },
@@ -1079,7 +1079,7 @@
     "Română"
   ],
   "publicationStatus": "published",
-  "currentEdition": "edition-1",
+  "currentEdition": "edition-2",
   "releasePolicy": "en-ro-on-request",
   "shortDescriptionEditorial": {
     "method": "active-LLM-authored",

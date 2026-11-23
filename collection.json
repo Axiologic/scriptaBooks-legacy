@@ -5527,7 +5527,7 @@
           "cover": "books/a/glimpse/into/frank/herberts/dune/bk-e3cf68155b524bf6/en/cover.webp",
           "sourceCover": "books/a/glimpse/into/frank/herberts/dune/bk-e3cf68155b524bf6/en/cover.png",
           "thumbnail": "books/a/glimpse/into/frank/herberts/dune/bk-e3cf68155b524bf6/en/thumbnail.webp",
-          "fullContent": "books/a/glimpse/into/frank/herberts/dune/bk-e3cf68155b524bf6/en/full_content.html",
+          "fullContent": "books/a/glimpse/into/frank/herberts/dune/bk-e3cf68155b524bf6/edition-files/edition-2/en/full_content.html",
           "shortContent": "books/a/glimpse/into/frank/herberts/dune/bk-e3cf68155b524bf6/en/short_content.html",
           "pdf": "books/a/glimpse/into/frank/herberts/dune/bk-e3cf68155b524bf6/en/book.pdf"
         },
@@ -5580,7 +5580,7 @@
         "English",
         "Română"
       ],
-      "currentEdition": "edition-1",
+      "currentEdition": "edition-2",
       "publicationStatus": "published",
       "pendingEdition": null,
       "sourceAliases": [
@@ -5600,6 +5600,52 @@
             "it": "Edizione 1",
             "ro": "Ediția 1",
             "pl": "Wydanie 1"
+          },
+          "entries": [
+            {
+              "name": "Axiologic Research SRL",
+              "url": "https://www.axiologic.net",
+              "role": "contributor",
+              "description": {
+                "en": "Axiologic Research SRL contributed this edition to ScriptaHub from the former OutfinityGift.com project. The contributor states that this edition is in the public domain.",
+                "fr": "Axiologic Research SRL a contribué cette édition à ScriptaHub depuis l’ancien projet OutfinityGift.com. Le contributeur déclare que cette édition appartient au domaine public.",
+                "de": "Axiologic Research SRL hat diese Ausgabe aus dem früheren Projekt OutfinityGift.com zu ScriptaHub beigetragen. Der Beitragende erklärt diese Ausgabe für gemeinfrei.",
+                "es": "Axiologic Research SRL aportó esta edición a ScriptaHub desde el antiguo proyecto OutfinityGift.com. El colaborador declara que esta edición pertenece al dominio público.",
+                "pt": "Axiologic Research SRL contribuiu com esta edição para o ScriptaHub a partir do antigo projeto OutfinityGift.com. O colaborador declara que esta edição está em domínio público.",
+                "it": "Axiologic Research SRL ha contribuito questa edizione a ScriptaHub dal precedente progetto OutfinityGift.com. Il collaboratore dichiara che questa edizione è di pubblico dominio.",
+                "ro": "Axiologic Research SRL a contribuit cu această ediție la ScriptaHub, din fostul proiect OutfinityGift.com. Contribuitorul declară că ediția este în domeniul public.",
+                "pl": "Axiologic Research SRL wniosła tę edycję do ScriptaHub z dawnego projektu OutfinityGift.com. Współtwórca oświadcza, że edycja należy do domeny publicznej."
+              }
+            },
+            {
+              "name": "Outfinity SRL",
+              "url": "https://www.outfinity.ch",
+              "role": "contributor",
+              "description": {
+                "en": "Outfinity SRL contributed the original source material and artwork for this ScriptaHub edition.",
+                "fr": "Outfinity SRL a fourni le texte source et les illustrations d’origine de cette édition ScriptaHub.",
+                "de": "Outfinity SRL hat das ursprüngliche Quellenmaterial und die Gestaltung dieser ScriptaHub-Ausgabe beigetragen.",
+                "es": "Outfinity SRL aportó el material original y las ilustraciones de esta edición de ScriptaHub.",
+                "pt": "Outfinity SRL contribuiu com o material de origem e a arte original desta edição do ScriptaHub.",
+                "it": "Outfinity SRL ha contribuito con il materiale originale e le illustrazioni di questa edizione ScriptaHub.",
+                "ro": "Outfinity SRL a contribuit cu materialul-sursă și ilustrațiile originale ale acestei ediții ScriptaHub.",
+                "pl": "Outfinity SRL wniosła oryginalny materiał źródłowy i oprawę graficzną tej edycji ScriptaHub."
+              }
+            }
+          ]
+        },
+        {
+          "edition": "edition-2",
+          "number": 2,
+          "label": {
+            "en": "Edition 2",
+            "fr": "Édition 2",
+            "de": "Ausgabe 2",
+            "es": "Edición 2",
+            "pt": "Edição 2",
+            "it": "Edizione 2",
+            "ro": "Ediția 2",
+            "pl": "Wydanie 2"
           },
           "entries": [
             {
